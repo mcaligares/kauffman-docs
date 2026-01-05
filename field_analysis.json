@@ -1,0 +1,225 @@
+{
+  "field_priorities": {
+    "Name": "Critical",
+    "Preferred First Name": "Critical",
+    "Last Name": "Critical",
+    "Email Address": "Critical",
+    "LinkedIn URL": "Critical",
+    "Job Title": "High",
+    "Current Firm": "High",
+    "Primary Fund Type (from Current Firm)": "High",
+    "Country": "High",
+    "State/Province": "High",
+    "Primary Region Based In": "High",
+    "Professional Bio": "High",
+    "Investing Thesis": "High",
+    "Preferred Stages": "High",
+    "KF Class #": "Medium",
+    "Category": "Medium",
+    "Alternate Email": "Medium",
+    "Biography URL": "Medium",
+    "Groups In": "Medium",
+    "Mentees Are:": "Medium",
+    "Mentors Class #:": "Medium",
+    "Education/Personal Bio": "Medium",
+    "Headshot": "Low",
+    "WhatsApp Country Code": "Low",
+    "WhatsApp Phone (exc. Country Code)": "Low",
+    "WhatsApp #": "Low",
+    "Date of Birth": "Low",
+    "% Direct VC": "Low",
+    "% Emerging Managers": "Low",
+    "% Established Managers": "Low",
+    "Update Biography": "Low"
+  },
+  "apollo_mapping": {
+    "Name": {
+      "found": true,
+      "mapping": "name",
+      "coverage": 8
+    },
+    "KF Class #": {
+      "found": true,
+      "mapping": "employment_history",
+      "coverage": 8
+    },
+    "Headshot": {
+      "found": true,
+      "mapping": "photo_url",
+      "coverage": 8
+    },
+    "Category": {
+      "found": false,
+      "mapping": null,
+      "coverage": 0
+    },
+    "Preferred First Name": {
+      "found": true,
+      "mapping": "first_name",
+      "coverage": 8
+    },
+    "Last Name": {
+      "found": true,
+      "mapping": "last_name",
+      "coverage": 8
+    },
+    "Email Address": {
+      "found": true,
+      "mapping": "email",
+      "coverage": 3
+    },
+    "State/Province": {
+      "found": true,
+      "mapping": "organization.state",
+      "coverage": 8
+    },
+    "Country": {
+      "found": true,
+      "mapping": "country",
+      "coverage": 8
+    },
+    "Job Title": {
+      "found": true,
+      "mapping": "title",
+      "coverage": 8
+    },
+    "Current Firm": {
+      "found": true,
+      "mapping": "organization.name",
+      "coverage": 7
+    },
+    "Primary Fund Type (from Current Firm)": {
+      "found": true,
+      "mapping": "organization.industry",
+      "coverage": 7
+    },
+    "Alternate Email": {
+      "found": true,
+      "mapping": "email",
+      "coverage": 3
+    },
+    "LinkedIn URL": {
+      "found": true,
+      "mapping": "linkedin_url",
+      "coverage": 8
+    },
+    "Primary Region Based In": {
+      "found": true,
+      "mapping": "country",
+      "coverage": 8
+    },
+    "WhatsApp Country Code": {
+      "found": true,
+      "mapping": "phone_numbers",
+      "coverage": 1
+    },
+    "WhatsApp Phone (exc. Country Code)": {
+      "found": true,
+      "mapping": "phone_numbers",
+      "coverage": 1
+    },
+    "Date of Birth": {
+      "found": false,
+      "mapping": null,
+      "coverage": 0
+    },
+    "% Direct VC": {
+      "found": false,
+      "mapping": null,
+      "coverage": 0
+    },
+    "% Emerging Managers": {
+      "found": false,
+      "mapping": null,
+      "coverage": 0
+    },
+    "% Established Managers": {
+      "found": false,
+      "mapping": null,
+      "coverage": 0
+    },
+    "Investing Thesis": {
+      "found": false,
+      "mapping": null,
+      "coverage": 0
+    },
+    "Professional Bio": {
+      "found": true,
+      "mapping": "headline",
+      "coverage": 8
+    },
+    "Education/Personal Bio": {
+      "found": false,
+      "mapping": null,
+      "coverage": 0
+    },
+    "Biography URL": {
+      "found": false,
+      "mapping": null,
+      "coverage": 0
+    },
+    "WhatsApp #": {
+      "found": true,
+      "mapping": "phone_numbers",
+      "coverage": 1
+    },
+    "Groups In": {
+      "found": false,
+      "mapping": null,
+      "coverage": 0
+    },
+    "Preferred Stages": {
+      "found": false,
+      "mapping": null,
+      "coverage": 0
+    },
+    "Mentees Are:": {
+      "found": false,
+      "mapping": null,
+      "coverage": 0
+    },
+    "Mentors Class #:": {
+      "found": false,
+      "mapping": null,
+      "coverage": 0
+    },
+    "Update Biography": {
+      "found": false,
+      "mapping": null,
+      "coverage": 0
+    }
+  },
+  "csv_fields": [
+    "Name",
+    "KF Class #",
+    "Headshot",
+    "Category",
+    "Preferred First Name",
+    "Last Name",
+    "Email Address",
+    "State/Province",
+    "Country",
+    "Job Title",
+    "Current Firm",
+    "Primary Fund Type (from Current Firm)",
+    "Alternate Email",
+    "LinkedIn URL",
+    "Primary Region Based In",
+    "WhatsApp Country Code",
+    "WhatsApp Phone (exc. Country Code)",
+    "Date of Birth",
+    "% Direct VC",
+    "% Emerging Managers",
+    "% Established Managers",
+    "Investing Thesis",
+    "Professional Bio",
+    "Education/Personal Bio",
+    "Biography URL",
+    "WhatsApp #",
+    "Groups In",
+    "Preferred Stages",
+    "Mentees Are:",
+    "Mentors Class #:",
+    "Update Biography"
+  ]
+}

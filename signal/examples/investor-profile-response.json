@@ -1,0 +1,313 @@
+{
+  "data": {
+    "investor_profile": {
+      "id": "11871",
+      "claimed": false,
+      "can_edit": false,
+      "include_in_list": true,
+      "in_founder_investor_list": false,
+      "in_diverse_investor_list": false,
+      "in_female_investor_list": false,
+      "in_invests_in_diverse_founders_investor_list": false,
+      "in_invests_in_female_founders_investor_list": false,
+      "leads_rounds": null,
+      "person": {
+        "id": "18060",
+        "slug": "allen-taylor",
+        "first_name": "Allen",
+        "last_name": "Taylor",
+        "name": "Allen Taylor",
+        "linkedin_url": "https://www.linkedin.com/in/aktaylor/",
+        "facebook_url": null,
+        "twitter_url": "https://www.twitter.com/aktaylor",
+        "crunchbase_url": "https://www.crunchbase.com/person/allen-taylor",
+        "angellist_url": "https://www.angel.co/p/allen-taylor",
+        "roles": ["VC", "Investor"],
+        "url": "https://endeavor.org/catalyst/",
+        "is_me": false,
+        "first_degree_count": 618,
+        "__typename": "Person",
+        "is_on_target_list": false,
+        "relationship_strength": null,
+        "email_from_my_contacts_list": null
+      },
+      "stages": [
+        {
+          "id": "22990",
+          "kind": "stage",
+          "display_name": "Series A",
+          "__typename": "Tag"
+        },
+        {
+          "id": "22988",
+          "kind": "stage",
+          "display_name": "Seed",
+          "__typename": "Tag"
+        }
+      ],
+      "position": "managing_partner",
+      "min_investment": "100000",
+      "max_investment": "5000000",
+      "target_investment": "1500000",
+      "areas_of_interest_freeform": "",
+      "no_current_interest_freeform": "",
+      "vote_count": 9,
+      "headline": "Managing Partner at Endeavor Catalyst",
+      "previous_position": null,
+      "previous_firm": null,
+      "location": {
+        "id": "7563",
+        "display_name": "San Francisco, California",
+        "__typename": "Tag"
+      },
+      "firm": {
+        "id": "1062",
+        "current_fund_size": "$292M",
+        "name": "Endeavor Catalyst",
+        "slug": "endeavor-catalyst",
+        "__typename": "Firm"
+      },
+      "degrees": [
+        {
+          "id": "3607",
+          "name": "A.B.; Germanic Languages & Literature",
+          "field_of_study": "German Culture; European Politics; Latin American Studies",
+          "school": {
+            "id": "25243",
+            "name": "Princeton University",
+            "display_name": "Princeton University",
+            "total_student_count": 124,
+            "__typename": "Tag"
+          },
+          "__typename": "InvestorProfileDegree"
+        }
+      ],
+      "positions": [
+        {
+          "id": "31709",
+          "title": "Managing Director, Endeavor Catalyst",
+          "company": {
+            "id": "33579",
+            "name": "Endeavor",
+            "display_name": "Endeavor",
+            "total_employee_count": 16,
+            "__typename": "Tag"
+          },
+          "start_date": {
+            "month": "11",
+            "year": "2013",
+            "__typename": "MonthYear"
+          },
+          "end_date": null,
+          "__typename": "InvestorProfilePosition"
+        },
+        {
+          "id": "31711",
+          "title": "Kauffman Fellow (Class 16)",
+          "company": {
+            "id": "25222",
+            "name": "Society of Kauffman Fellows",
+            "display_name": "Society of Kauffman Fellows",
+            "total_employee_count": 6,
+            "__typename": "Tag"
+          },
+          "start_date": {
+            "month": "7",
+            "year": "2011",
+            "__typename": "MonthYear"
+          },
+          "end_date": {
+            "month": "7",
+            "year": "2013",
+            "__typename": "MonthYear"
+          },
+          "__typename": "InvestorProfilePosition"
+        }
+      ],
+      "investments_on_record": {
+        "pageInfo": {
+          "hasNextPage": true,
+          "__typename": "PageInfo"
+        },
+        "record_count": 77,
+        "edges": [
+          {
+            "node": {
+              "id": "77925",
+              "company_display_name": "Shop Circle",
+              "__typename": "InvestorProfileInvestmentsOnRecord",
+              "total_raised": ["$300M"],
+              "coinvestor_names": [
+                "Pete Flint (NFX)",
+                "Yusuf Ozdalga (QED Investors)",
+                "Simon Blakey (Playfair Capital)",
+                "Niccolo Sanarico (Primo Ventures)",
+                "Peter Lasinger (3VC)",
+                "Nnamdi Okike (645 Ventures)"
+              ],
+              "investor_profile_funding_rounds": [
+                {
+                  "id": "350291",
+                  "is_lead": null,
+                  "board_role": null,
+                  "funding_round": {
+                    "id": "179271",
+                    "stage": "Series B",
+                    "date": "2025-02-25T00:00:00Z",
+                    "amount": "$100M",
+                    "__typename": "FundingRound"
+                  },
+                  "__typename": "InvestorProfileFundingRound"
+                }
+              ]
+            },
+            "__typename": "InvestorProfileInvestmentsOnRecordEdge"
+          },
+          {
+            "node": {
+              "id": "78173",
+              "company_display_name": "Flow48",
+              "__typename": "InvestorProfileInvestmentsOnRecord",
+              "total_raised": ["$94M"],
+              "coinvestor_names": [
+                "Scott Sandell (New Enterprise Associates (NEA))",
+                "Benoit Marrel (Breega)"
+              ],
+              "investor_profile_funding_rounds": [
+                {
+                  "id": "304629",
+                  "is_lead": null,
+                  "board_role": null,
+                  "funding_round": {
+                    "id": "162749",
+                    "stage": "Series A",
+                    "date": "2025-02-24T00:00:00Z",
+                    "amount": "$69M",
+                    "__typename": "FundingRound"
+                  },
+                  "__typename": "InvestorProfileFundingRound"
+                }
+              ]
+            },
+            "__typename": "InvestorProfileInvestmentsOnRecordEdge"
+          }
+        ],
+        "__typename": "InvestorProfileInvestmentsOnRecordConnection"
+      },
+      "investor_profile_funding_rounds": {
+        "pageInfo": {
+          "hasNextPage": true,
+          "__typename": "PageInfo"
+        },
+        "record_count": 80,
+        "edges": [
+          {
+            "node": {
+              "id": "350291",
+              "is_lead": null,
+              "board_role": null,
+              "funding_round": {
+                "id": "179271",
+                "amount": "$100M",
+                "date": "2025-02-25T00:00:00Z",
+                "stage": "Series B",
+                "company": {
+                  "id": "77925",
+                  "display_name": "Shop Circle",
+                  "__typename": "Tag"
+                },
+                "__typename": "FundingRound"
+              },
+              "__typename": "InvestorProfileFundingRound"
+            },
+            "__typename": "InvestorProfileFundingRoundEdge"
+          }
+        ],
+        "__typename": "InvestorProfileFundingRoundConnection"
+      },
+      "network_list_investor_profiles": {
+        "list_type": "COINVESTORS",
+        "edges": [
+          {
+            "node": {
+              "id": "15797",
+              "position": "associate",
+              "person": {
+                "id": "70216",
+                "name": "Aya Darwazeh",
+                "first_name": "Aya",
+                "last_name": "Darwazeh",
+                "slug": "aya-darwazeh",
+                "__typename": "Person"
+              },
+              "firm": {
+                "id": "1062",
+                "name": "Endeavor Catalyst",
+                "slug": "endeavor-catalyst",
+                "__typename": "Firm"
+              },
+              "__typename": "InvestorProfile"
+            },
+            "__typename": "InvestorProfileTypeEdge"
+          },
+          {
+            "node": {
+              "id": "11870",
+              "position": "managing_director",
+              "person": {
+                "id": "18059",
+                "name": "Jackie Carmel",
+                "first_name": "Jackie",
+                "last_name": "Carmel",
+                "slug": "jackie-carmel",
+                "__typename": "Person"
+              },
+              "firm": {
+                "id": "1062",
+                "name": "Endeavor Catalyst",
+                "slug": "endeavor-catalyst",
+                "__typename": "Firm"
+              },
+              "__typename": "InvestorProfile"
+            },
+            "__typename": "InvestorProfileTypeEdge"
+          }
+        ],
+        "__typename": "InvestorProfileTypeConnection"
+      },
+      "investing_connections": {
+        "record_count": 61,
+        "edges": [
+          {
+            "node": {
+              "id": "3151166",
+              "target_person": {
+                "id": "471",
+                "name": "Satya Patel",
+                "slug": "satya-patel",
+                "first_name": "Satya",
+                "last_name": "Patel",
+                "__typename": "Person",
+                "investor_profile": {
+                  "id": "6150",
+                  "firm": {
+                    "id": "101",
+                    "name": "Homebrew",
+                    "slug": "homebrew",
+                    "__typename": "Firm"
+                  },
+                  "__typename": "InvestorProfile"
+                }
+              },
+              "__typename": "PeopleRelationship"
+            },
+            "__typename": "PeopleRelationshipEdge"
+          }
+        ],
+        "__typename": "PeopleRelationshipConnection"
+      },
+      "__typename": "InvestorProfile"
+    }
+  }
+}
+

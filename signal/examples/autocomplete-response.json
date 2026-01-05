@@ -1,0 +1,37 @@
+{
+  "data": {
+    "investors": {
+      "edges": [
+        {
+          "node": {
+            "id": "11871",
+            "person": {
+              "id": "18060",
+              "slug": "allen-taylor",
+              "name": "Allen Taylor",
+              "first_name": "Allen",
+              "last_name": "Taylor",
+              "__typename": "Person"
+            },
+            "firm": {
+              "id": "1062",
+              "name": "Endeavor Catalyst",
+              "__typename": "Firm"
+            },
+            "__typename": "InvestorProfile",
+            "image_urls": [
+              "https://signal-api.nfx.com/rails/active_storage/representations/redirect/..."
+            ]
+          },
+          "__typename": "InvestorProfileEdge"
+        }
+      ],
+      "__typename": "InvestorProfileConnection"
+    },
+    "firms": {
+      "edges": [],
+      "__typename": "AuthorizedFirmConnection"
+    }
+  }
+}
+
