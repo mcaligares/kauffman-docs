@@ -1,0 +1,164 @@
+{
+  "companyId": "10618-03",
+  "companyName": {
+    "formalName": "Jaguar Land Rover Automotive",
+    "alsoKnownAs": "Jaguar Land Rover",
+    "legalName": "Jaguar Land Rover Automotive PLC",
+    "formerlyKnownAs": "Jaguar Land Rover PLC"
+  },
+  "parentCompanyId": "41517-91",
+  "parentCompanyName": "Tata Motors",
+  "hqLocation": {
+    "city": "Coventry",
+    "stateProvince": "England",
+    "postCode": "CV3 4LF",
+    "country": "United Kingdom"
+  },
+  "description": "Manufacturer and distributor of automobiles and spare parts based in Coventry, England, United Kingdom. The company engages in the manufacturing and marketing of automobiles such as luxury sedans, sports cars and off-road vehicles, along with designing spare parts and other automotive components.",
+  "financingStatus": {
+    "code": "CBOA",
+    "description": "Corporate Backed or Acquired"
+  },
+  "businessStatus": {
+    "code": "PROF",
+    "description": "Profitable"
+  },
+  "ownershipStatus": {
+    "code": "ACQOS",
+    "description": "Acquired/Merged (Operating Subsidiary)"
+  },
+  "universe": [
+    {
+      "code": "CSU",
+      "description": "M&A"
+    },
+    {
+      "code": "DEBTU",
+      "description": "Debt Financed"
+    }
+  ],
+  "website": "www.jaguarlandrover.com",
+  "employees": 44000,
+  "employeeHistory": [
+    {
+      "asOfDate": "2023-04-01",
+      "employeeCount": 44000
+    },
+    {
+      "asOfDate": "2022-09-29",
+      "employeeCount": 47000
+    },
+    {
+      "asOfDate": "2022-08-30",
+      "employeeCount": 40000
+    },
+    {
+      "asOfDate": "2022-01-01",
+      "employeeCount": 42000
+    },
+    {
+      "asOfDate": "2021-09-06",
+      "employeeCount": 40000
+    },
+    {
+      "asOfDate": "2020-10-16",
+      "employeeCount": 40000
+    },
+    {
+      "asOfDate": "2020-09-05",
+      "employeeCount": 38000
+    },
+    {
+      "asOfDate": "2020-08-08",
+      "employeeCount": 40000
+    },
+    {
+      "asOfDate": "2020-08-03",
+      "employeeCount": 16000
+    },
+    {
+      "asOfDate": "2020-07-28",
+      "employeeCount": 40000
+    },
+    {
+      "asOfDate": "2020-06-21",
+      "employeeCount": 40000
+    },
+    {
+      "asOfDate": "2020-05-10",
+      "employeeCount": 43000
+    },
+    {
+      "asOfDate": "2020-04-23",
+      "employeeCount": 40000
+    },
+    {
+      "asOfDate": "2020-01-06",
+      "employeeCount": 40000
+    },
+    {
+      "asOfDate": "2019-09-23",
+      "employeeCount": 40000
+    },
+    {
+      "asOfDate": "2019-03-31",
+      "employeeCount": 44000
+    },
+    {
+      "asOfDate": "2019-01-12",
+      "employeeCount": 44000
+    },
+    {
+      "asOfDate": "2018-12-31",
+      "employeeCount": 43000
+    },
+    {
+      "asOfDate": "2018-09-21",
+      "employeeCount": 43000
+    },
+    {
+      "asOfDate": "2018-07-04",
+      "employeeCount": 40000
+    },
+    {
+      "asOfDate": "2018-06-30",
+      "employeeCount": 42000
+    },
+    {
+      "asOfDate": "2018-04-13",
+      "employeeCount": 40000
+    },
+    {
+      "asOfDate": "2017-06-19",
+      "employeeCount": 40000
+    }
+  ],
+  "exchange": null,
+  "ticker": null,
+  "yearFounded": 1922,
+  "financingStatusNote": {
+    "note": "The company received $704.5 million of debt financing in the form of a revolving loan from Bank of China, Bank of Communications, China Construction Bank, Industrial and Commercial Bank of China and Shanghai Pudong Development Bank Company on June 5, 2020. The loan facility can help the company better manage cash flow amid the coronavirus epidemic.",
+    "asOfDate": "2020-06-05"
+  },
+  "totalMoneyRaised": {
+    "amount": 12009834883.64,
+    "currency": "USD",
+    "nativeAmount": 10158638934.67,
+    "nativeCurrency": "EUR",
+    "estimated": false
+  },
+  "sicCodes": [
+    {
+      "code": "3711",
+      "description": "Motor vehicles & passenger car bodies"
+    }
+  ],
+  "morningstarCode": null,
+  "cikCode": null,
+  "companySocialURLs": {
+    "facebookProfileUrl": "https://www.facebook.com/LifeatJLR",
+    "twitterProfileUrl": "https://twitter.com/jlr_news",
+    "linkedInProfileUrl": "https://www.linkedin.com/company/jaguar-land-rover_1"
+  },
+  "pitchBookProfileLink": "https://my.pitchbook.com/profile/10618-03/company/profile"
+}

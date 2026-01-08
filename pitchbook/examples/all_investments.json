@@ -1,0 +1,492 @@
+[
+  {
+    "investorId": "58781-35",
+    "companyId": "53780-77",
+    "companyName": "Wish",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2019-08-01",
+    "investmentDealId": "118141-66T",
+    "exitDate": "2020-12-16",
+    "exitDealId": "155327-14T"
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "54309-16",
+    "companyName": "Postmates",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2019-02-08",
+    "investmentDealId": "115434-64T",
+    "exitDate": "2020-12-01",
+    "exitDealId": "138831-04T"
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "51136-75",
+    "companyName": "Uber",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2018-12-28",
+    "investmentDealId": "92819-08T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "51736-87",
+    "companyName": "Coupang",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2018-11-20",
+    "investmentDealId": "113925-97T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "53324-65",
+    "companyName": "Agari",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2018-06-15",
+    "investmentDealId": "107726-59T",
+    "exitDate": "2021-05-12",
+    "exitDealId": "172152-55T"
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "51261-67",
+    "companyName": "Airbnb",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2017-09-02",
+    "investmentDealId": "72222-04T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "135942-04",
+    "companyName": "Immersv",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2015-10-01",
+    "investmentDealId": "65898-91T",
+    "exitDate": "2018-09-01",
+    "exitDealId": "120352-69T"
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "55579-06",
+    "companyName": "Munchery",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2015-05-27",
+    "investmentDealId": "50661-46T",
+    "exitDate": "2019-03-04",
+    "exitDealId": "116988-40T"
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "51736-87",
+    "companyName": "Coupang",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2015-01-09",
+    "investmentDealId": "40292-02T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "94661-65",
+    "companyName": "Present",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2014-05-01",
+    "investmentDealId": "39201-67T",
+    "exitDate": "2016-11-01",
+    "exitDealId": "98698-87T"
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "42709-33",
+    "companyName": "Practice Fusion",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2013-12-09",
+    "investmentDealId": "25672-60T",
+    "exitDate": "2018-02-13",
+    "exitDealId": "99762-76T"
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "42921-37",
+    "companyName": "2U",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2013-10-21",
+    "investmentDealId": "21060-10T",
+    "exitDate": "2014-03-28",
+    "exitDealId": "31780-18T"
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "10382-23",
+    "companyName": "Mode Media",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2013-08-13",
+    "investmentDealId": "27913-87T",
+    "exitDate": "2016-09-15",
+    "exitDealId": "75738-97T"
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "43071-49",
+    "companyName": "WorkMarket",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2013-05-23",
+    "investmentDealId": "25922-89T",
+    "exitDate": "2018-01-22",
+    "exitDealId": "100396-45T"
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "12655-99",
+    "companyName": "Apptio",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2013-05-15",
+    "investmentDealId": "25991-20T",
+    "exitDate": "2016-09-23",
+    "exitDealId": "74786-23T"
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "40997-08",
+    "companyName": "Spotify",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2012-11-14",
+    "investmentDealId": "24609-88T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "43117-84",
+    "companyName": "Palantir Technologies",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2012-09-11",
+    "investmentDealId": "21472-93T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "52109-11",
+    "companyName": "Nutanix",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2012-08-22",
+    "investmentDealId": "22169-08T",
+    "exitDate": "2016-09-30",
+    "exitDealId": "63542-26T"
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "51269-95",
+    "companyName": "Tumblr",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2012-03-23",
+    "investmentDealId": "21503-62T",
+    "exitDate": "2013-06-21",
+    "exitDealId": "26033-86T"
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "44794-81",
+    "companyName": "Tesla Energy Operations",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2012-02-24",
+    "investmentDealId": "20738-26T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "51037-75",
+    "companyName": "Eventbrite",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2012-01-01",
+    "investmentDealId": "95960-44T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "10887-76",
+    "companyName": "Viant Technology",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2010-11-09",
+    "investmentDealId": "22785-40T",
+    "exitDate": "2017-03-02",
+    "exitDealId": "66143-17T"
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "51037-75",
+    "companyName": "Eventbrite",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2010-10-06",
+    "investmentDealId": "17505-01T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "13229-38",
+    "companyName": "Good Technology",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2007-02-16",
+    "investmentDealId": "22682-35T",
+    "exitDate": "2015-11-02",
+    "exitDealId": "57067-39T"
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "52736-05",
+    "companyName": "Specific Media UK",
+    "investorStatus": "Former Investor",
+    "investmentDate": "2006-06-12",
+    "investmentDealId": "81366-22T",
+    "exitDate": "2008-03-12",
+    "exitDealId": "19117-72T"
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "225830-98",
+    "companyName": "Bird Rides",
+    "investorStatus": "Pending (Sell Side)",
+    "investmentDate": "2020-01-27",
+    "investmentDealId": "132474-88T",
+    "exitDate": "2021-05-12",
+    "exitDealId": "171909-37T"
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "62283-07",
+    "companyName": "Grab",
+    "investorStatus": "Pending (Sell Side)",
+    "investmentDate": "2018-03-15",
+    "investmentDealId": "85387-42T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "63647-83",
+    "companyName": "Workrise",
+    "investorStatus": "Active Investor",
+    "investmentDate": "2021-05-20",
+    "investmentDealId": "172495-81T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "266143-60",
+    "companyName": "Route (Property and Casualty Insurance)",
+    "investorStatus": "Active Investor",
+    "investmentDate": "2020-12-01",
+    "investmentDealId": "160949-26T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "433000-90",
+    "companyName": "Podium Education",
+    "investorStatus": "Active Investor",
+    "investmentDate": "2020-10-14",
+    "investmentDealId": "137860-48T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "223461-82",
+    "companyName": "Anduril",
+    "investorStatus": "Active Investor",
+    "investmentDate": "2020-07-01",
+    "investmentDealId": "138948-31T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "57271-15",
+    "companyName": "Planet",
+    "investorStatus": "Active Investor",
+    "investmentDate": "2020-05-01",
+    "investmentDealId": "115316-20T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "63647-83",
+    "companyName": "Workrise",
+    "investorStatus": "Active Investor",
+    "investmentDate": "2020-03-23",
+    "investmentDealId": "133970-05T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "115479-82",
+    "companyName": "The Pill Club",
+    "investorStatus": "Active Investor",
+    "investmentDate": "2019-12-30",
+    "investmentDealId": "129119-41T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "107452-90",
+    "companyName": "Quartet (Information Services (B2C))",
+    "investorStatus": "Active Investor",
+    "investmentDate": "2019-05-08",
+    "investmentDealId": "118970-47T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "155954-35",
+    "companyName": "Lattice",
+    "investorStatus": "Active Investor",
+    "investmentDate": "2019-04-26",
+    "investmentDealId": "118443-43T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "63690-94",
+    "companyName": "Flexport",
+    "investorStatus": "Active Investor",
+    "investmentDate": "2019-03-01",
+    "investmentDealId": "118637-65T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "52765-30",
+    "companyName": "Getaround",
+    "investorStatus": "Active Investor",
+    "investmentDate": "2019-01-10",
+    "investmentDealId": "112965-58T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "55758-97",
+    "companyName": "Gusto",
+    "investorStatus": "Active Investor",
+    "investmentDate": "2018-07-31",
+    "investmentDealId": "109756-63T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "51391-00",
+    "companyName": "Turo",
+    "investorStatus": "Active Investor",
+    "investmentDate": "2018-06-25",
+    "investmentDealId": "90896-77T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "56062-99",
+    "companyName": "Intercom",
+    "investorStatus": "Active Investor",
+    "investmentDate": "2018-05-17",
+    "investmentDealId": "103410-19T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "118715-14",
+    "companyName": "Didi Chuxing Technology",
+    "investorStatus": "Active Investor",
+    "investmentDate": "2018-04-06",
+    "investmentDealId": "104218-21T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "58291-12",
+    "companyName": "Callisto Media",
+    "investorStatus": "Active Investor",
+    "investmentDate": "2018-03-02",
+    "investmentDealId": "104546-71T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "168773-32",
+    "companyName": "Fair",
+    "investorStatus": "Active Investor",
+    "investmentDate": "2018-02-05",
+    "investmentDealId": "101039-50T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "108107-02",
+    "companyName": "Virgin Hyperloop",
+    "investorStatus": "Active Investor",
+    "investmentDate": "2016-05-11",
+    "investmentDealId": "57541-42T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "94615-48",
+    "companyName": "Curology",
+    "investorStatus": "Active Investor",
+    "investmentDate": "2016-04-18",
+    "investmentDealId": "72217-18T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "54244-00",
+    "companyName": "Course Hero",
+    "investorStatus": "Active Investor",
+    "investmentDate": "2014-11-11",
+    "investmentDealId": "39317-32T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "51242-86",
+    "companyName": "ShareThis",
+    "investorStatus": "Active Investor",
+    "investmentDate": "2014-10-06",
+    "investmentDealId": "25038-19T",
+    "exitDate": null,
+    "exitDealId": null
+  },
+  {
+    "investorId": "58781-35",
+    "companyId": "55758-97",
+    "companyName": "Gusto",
+    "investorStatus": "Active Investor",
+    "investmentDate": "2012-12-11",
+    "investmentDealId": "23150-98T",
+    "exitDate": null,
+    "exitDealId": null
+  }
+]

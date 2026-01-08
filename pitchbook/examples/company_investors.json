@@ -1,0 +1,5453 @@
+{
+  "countAllInvestors": 201,
+  "investors": [
+    {
+      "companyId": "51136-75",
+      "investorId": "11776-33",
+      "investorName": "Axel Springer",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "CA",
+            "description": "PE-Backed Company"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "CO",
+            "description": "Corporation"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2019-05-10",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "126970-03",
+      "investorName": "HOF Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2019-05-10",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "10727-11",
+      "investorName": "PayPal Holdings",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VCBK",
+            "description": "VC-Backed Company"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "CO",
+            "description": "Corporation"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "ACINC",
+            "description": "Accelerator/Incubator"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2019-05-10",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "ACT",
+        "description": "Active Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "438019-57",
+      "investorName": "Asas Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "SEC",
+            "description": "Secondary Buyer"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "Debt",
+            "description": "Lender/Debt Provider"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "CD",
+            "description": "Corporate Development"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "RE",
+            "description": "Real Estate"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "AMAN",
+            "description": "Asset Manager"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2019-03-24",
+      "investorExit": "2019-05-10",
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "58781-35",
+      "investorName": "137 Ventures",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "106896-61",
+      "investorName": "Aeon Family of Funds",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "OT",
+            "description": "Other"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "OPE",
+            "description": "Other Private Equity"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "INFR",
+            "description": "Infrastructure"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "SEC",
+            "description": "Secondary Buyer"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": "2019-05-10",
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "437035-87",
+      "investorName": "Alexander Capital Ventures",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "179864-47",
+      "investorName": "All Blue Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "RE",
+            "description": "Real Estate"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "FO",
+            "description": "Family Office"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "SEC",
+            "description": "Secondary Buyer"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "181651-60",
+      "investorName": "Alpha Square Group",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "AMAN",
+            "description": "Asset Manager"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "FO",
+            "description": "Family Office"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "60452-38",
+      "investorName": "Black River Ventures",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "231115-06",
+      "investorName": "Delk Enterprises",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "RE",
+            "description": "Real Estate"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "327517-93",
+      "investorName": "FG2 Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "264433-87",
+      "investorName": "GC1 Ventures",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "232408-72",
+      "investorName": "Jeffrey Wernick",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "434971-90",
+      "investorName": "Late Stage Management",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "465832-27",
+      "investorName": "Mastry",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": "2019-05-10",
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "54556-57",
+      "investorName": "MicroVentures",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "IB",
+            "description": "Investment Bank"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "58877-38",
+      "investorName": "MSA Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "LP",
+            "description": "Limited Partner"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "53684-38",
+      "investorName": "NALA Investments",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "FO",
+            "description": "Family Office"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "LP",
+            "description": "Limited Partner"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": "2019-05-10",
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "56613-25",
+      "investorName": "Plus Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "264469-24",
+      "investorName": "Polyvalent Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "FO",
+            "description": "Family Office"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "ACT",
+        "description": "Active Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "268405-84",
+      "investorName": "Quantum Global Partners",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "121327-75",
+      "investorName": "Rafael Pinedo",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "226991-44",
+      "investorName": "Sixty Degree Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "229791-88",
+      "investorName": "Smith Family Circle",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "FO",
+            "description": "Family Office"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "224096-41",
+      "investorName": "StraightPath Venture Partners",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "SEC",
+            "description": "Secondary Buyer"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "156924-73",
+      "investorName": "Syren Capital Advisors",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "MZ",
+            "description": "Mezzanine"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "170394-04",
+      "investorName": "The Strand Partners",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "RE",
+            "description": "Real Estate"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "FOF",
+            "description": "Fund of Funds"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "223391-44",
+      "investorName": "Times Bridge",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "CV",
+            "description": "Corporate Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "167007-88",
+      "investorName": "Troy Capital Partners",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "10297-90",
+      "investorName": "Valor Equity Partners",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "11331-10",
+      "investorName": "Vulcan Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "FO",
+            "description": "Family Office"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "CV",
+            "description": "Corporate Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "53283-07",
+      "investorName": "Xplorer Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2018-12-28",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "234961-84",
+      "investorName": "NewView Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2018-12-03",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "159942-07",
+      "investorName": "Bragiel Brothers",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2018-10-18",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "234425-26",
+      "investorName": "Inside Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2018-10-18",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "52973-20",
+      "investorName": "Pohlad Companies",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "FO",
+            "description": "Family Office"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2018-09-03",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "60640-03",
+      "investorName": "Archer Venture Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2018-05-23",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "56091-70",
+      "investorName": "Coatue Management",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "HD",
+            "description": "Hedge Fund"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2018-05-23",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "53738-11",
+      "investorName": "SharesPost",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2018-05-23",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "56059-66",
+      "investorName": "Dragoneer Investment Group",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2018-01-18",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "186818-23",
+      "investorName": "Glean Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "AMAN",
+            "description": "Asset Manager"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2018-01-18",
+      "investorExit": "2019-05-10",
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "11295-73",
+      "investorName": "Sequoia Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2018-01-18",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "182433-16",
+      "investorName": "SoftBank Investment Advisers",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "II",
+            "description": "Impact Investing"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2018-01-18",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "52120-00",
+      "investorName": "Tencent Holdings",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "CO",
+            "description": "Corporation"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2018-01-18",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "11118-61",
+      "investorName": "Axel Springer Digital Ventures",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "FOF",
+            "description": "Fund of Funds"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "CV",
+            "description": "Corporate Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2017-04-19",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "64452-61",
+      "investorName": "American Express Ventures",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "CV",
+            "description": "Corporate Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2016-09-22",
+      "investorExit": "2018-01-18",
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "11193-13",
+      "investorName": "Foundation Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "HD",
+            "description": "Hedge Fund"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2016-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "114742-18",
+      "investorName": "Geodesic Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2016-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "121955-23",
+      "investorName": "K2 Global",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2016-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "55759-69",
+      "investorName": "Kumpulan Wang Persaraan of Malaysia",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "LP",
+            "description": "Limited Partner"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2016-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "442420-57",
+      "investorName": "Light Street Investments",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2016-09-22",
+      "investorExit": "2019-05-10",
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "169461-64",
+      "investorName": "SciFi VC",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2016-09-22",
+      "investorExit": "2019-05-10",
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "95533-93",
+      "investorName": "Tao Capital Partners",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "II",
+            "description": "Impact Investing"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "RE",
+            "description": "Real Estate"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2016-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "53737-66",
+      "investorName": "G Squared",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2016-09-16",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "25168-96",
+      "investorName": "Brand Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "CV",
+            "description": "Corporate Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2016-08-01",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "10037-35",
+      "investorName": "Bank of America Merrill Lynch",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "IB",
+            "description": "Investment Bank"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "RE",
+            "description": "Real Estate"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "135887-86",
+      "investorName": "Caspian Venture Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "118715-14",
+      "investorName": "Didi Chuxing Technology",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VCBK",
+            "description": "VC-Backed Company"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "125768-26",
+      "investorName": "Fort Ross Ventures",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "12421-90",
+      "investorName": "Government of Singapore Investment Corporation (GIC)",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "RE",
+            "description": "Real Estate"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "SWF",
+            "description": "Sovereign Wealth Fund"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "LP",
+            "description": "Limited Partner"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "42939-01",
+      "investorName": "Hartford Financial Services Group (Mutual Fund Business)",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "MF",
+            "description": "Mutual Fund"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "185007-52",
+      "investorName": "Himel Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "RE",
+            "description": "Real Estate"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "86828-32",
+      "investorName": "John Hancock Investments",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "AMAN",
+            "description": "Asset Manager"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "182530-27",
+      "investorName": "L1 Technology",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "109556-20",
+      "investorName": "LetterOne",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "10045-81",
+      "investorName": "Morgan Stanley",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "RE",
+            "description": "Real Estate"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "II",
+            "description": "Impact Investing"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "ACINC",
+            "description": "Accelerator/Incubator"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "IB",
+            "description": "Investment Bank"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "156734-56",
+      "investorName": "NextEquity Partners",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "163533-97",
+      "investorName": "Principal Asset Management",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "MF",
+            "description": "Mutual Fund"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "52314-76",
+      "investorName": "Saudi Arabia's Public Investment Fund",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "LP",
+            "description": "Limited Partner"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "SWF",
+            "description": "Sovereign Wealth Fund"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "10824-13",
+      "investorName": "Sberbank of Russia",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "CO",
+            "description": "Corporation"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "ACINC",
+            "description": "Accelerator/Incubator"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "42443-65",
+      "investorName": "Shumway Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "FO",
+            "description": "Family Office"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "HD",
+            "description": "Hedge Fund"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "RE",
+            "description": "Real Estate"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "40692-61",
+      "investorName": "SoftBank Group",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "CO",
+            "description": "Corporation"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "INFR",
+            "description": "Infrastructure"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "61655-59",
+      "investorName": "Sway Ventures",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "40764-97",
+      "investorName": "The Vanguard Group",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "AMAN",
+            "description": "Asset Manager"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "MF",
+            "description": "Mutual Fund"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "42873-94",
+      "investorName": "Tiger Global Management",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "HD",
+            "description": "Hedge Fund"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "41518-00",
+      "investorName": "Toyota Motor",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "CO",
+            "description": "Corporation"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "14140-09",
+      "investorName": "TrueBridge Capital Partners",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "FOF",
+            "description": "Fund of Funds"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "AMAN",
+            "description": "Asset Manager"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "232112-71",
+      "investorName": "USAA Corporate Development",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "CV",
+            "description": "Corporate Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "52493-23",
+      "investorName": "Variable Annuity Life Insurance Company",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "LP",
+            "description": "Limited Partner"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2016-05-24",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "185750-29",
+      "investorName": "408 Ventures",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "166684-42",
+      "investorName": "ADIT Ventures",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "51490-54",
+      "investorName": "American Funds Insurance Series",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "GV",
+            "description": "Government"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "54785-44",
+      "investorName": "Bennett Coleman and Company",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "CO",
+            "description": "Corporation"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "42947-29",
+      "investorName": "China CITIC Bank",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "Debt",
+            "description": "Lender/Debt Provider"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "43042-33",
+      "investorName": "China Life Insurance",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "CO",
+            "description": "Corporation"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "INFR",
+            "description": "Infrastructure"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "112889-26",
+      "investorName": "Cross Culture Ventures",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "109457-56",
+      "investorName": "Eastlink Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "53483-86",
+      "investorName": "Emil Capital Partners",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "108358-57",
+      "investorName": "FJ Labs",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "ACINC",
+            "description": "Accelerator/Incubator"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "149806-90",
+      "investorName": "Frees Fund",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "166872-07",
+      "investorName": "FS Investors",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "RE",
+            "description": "Real Estate"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "57938-77",
+      "investorName": "Grupo Arcano",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "101626-39",
+      "investorName": "HDS Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "ACINC",
+            "description": "Accelerator/Incubator"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "52363-99",
+      "investorName": "Hillhouse Capital Group",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "HD",
+            "description": "Hedge Fund"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "11211-40",
+      "investorName": "IVP",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "160013-71",
+      "investorName": "Level.VC",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "11026-45",
+      "investorName": "Microsoft",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "CO",
+            "description": "Corporation"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "ACINC",
+            "description": "Accelerator/Incubator"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "12415-42",
+      "investorName": "Ping An Insurance (Group) Company of China",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "INFR",
+            "description": "Infrastructure"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "CO",
+            "description": "Corporation"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "65826-82",
+      "investorName": "Prudence Holdings",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": "2019-05-10",
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "10742-05",
+      "investorName": "Putnam Investments",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "AMAN",
+            "description": "Asset Manager"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "MF",
+            "description": "Mutual Fund"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "60622-12",
+      "investorName": "SignalFire",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "118457-65",
+      "investorName": "Steven Xi",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": "2019-05-10",
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "99791-92",
+      "investorName": "Taiping Life Insurance Company",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "LP",
+            "description": "Limited Partner"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "OT",
+            "description": "Other"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "13388-32",
+      "investorName": "Tata Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "AMAN",
+            "description": "Asset Manager"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "Debt",
+            "description": "Lender/Debt Provider"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "56260-72",
+      "investorName": "TEV Ventures",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "CV",
+            "description": "Corporate Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "153701-56",
+      "investorName": "USM Holding",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "CO",
+            "description": "Corporation"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "HC",
+            "description": "Holding Company"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-07-31",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "56092-96",
+      "investorName": "ACE & Company",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "SEC",
+            "description": "Secondary Buyer"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-02-18",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "42054-13",
+      "investorName": "Baidu",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "CO",
+            "description": "Corporation"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "ACINC",
+            "description": "Accelerator/Incubator"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2015-02-18",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "10120-60",
+      "investorName": "General Atlantic",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ACINC",
+            "description": "Accelerator/Incubator"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2015-02-18",
+      "investorExit": "2019-05-10",
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "58369-96",
+      "investorName": "Glade Brook Capital Partners",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-02-18",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "105894-55",
+      "investorName": "Hadi Partovi",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-02-18",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "43140-61",
+      "investorName": "Lauder Partners",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "FO",
+            "description": "Family Office"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "FOF",
+            "description": "Fund of Funds"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-02-18",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "11258-83",
+      "investorName": "Norwest Venture Partners",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2015-02-18",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "170092-27",
+      "investorName": "Reimagined Ventures",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "FO",
+            "description": "Family Office"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2015-02-18",
+      "investorExit": "2019-05-10",
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "56617-66",
+      "investorName": "Square Peg Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-02-18",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "55802-80",
+      "investorName": "Times Internet",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "CO",
+            "description": "Corporation"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VCBK",
+            "description": "VC-Backed Company"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-02-18",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "226254-52",
+      "investorName": "Wynsun Capital Management",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "AMAN",
+            "description": "Asset Manager"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2015-02-18",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "54070-03",
+      "investorName": "BlackRock Private Equity Partners",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "HD",
+            "description": "Hedge Fund"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "MZ",
+            "description": "Mezzanine"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "INFR",
+            "description": "Infrastructure"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "FOF",
+            "description": "Fund of Funds"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2014-06-06",
+      "investorExit": "2019-05-10",
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "51048-46",
+      "investorName": "Capital Factory",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "ACINC",
+            "description": "Accelerator/Incubator"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2014-06-06",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "11217-34",
+      "investorName": "Industry Ventures",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "FOF",
+            "description": "Fund of Funds"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "SEC",
+            "description": "Secondary Buyer"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2014-06-06",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "11228-50",
+      "investorName": "Kleiner Perkins",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "II",
+            "description": "Impact Investing"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2014-06-06",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "10121-86",
+      "investorName": "Summit Partners",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2014-06-06",
+      "investorExit": "2019-05-10",
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "222269-59",
+      "investorName": "Ventura Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2014-06-06",
+      "investorExit": "2019-05-10",
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "42770-53",
+      "investorName": "Altimeter Capital Management",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2014-04-12",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "111257-20",
+      "investorName": "Cota Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "HD",
+            "description": "Hedge Fund"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2014-04-12",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "62226-64",
+      "investorName": "Discovery Capital Management",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "HD",
+            "description": "Hedge Fund"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2014-04-12",
+      "investorExit": "2019-05-10",
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "13240-18",
+      "investorName": "Fidelity Investments",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "CO",
+            "description": "Corporation"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "MF",
+            "description": "Mutual Fund"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2014-04-12",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "55970-02",
+      "investorName": "ICONIQ Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "INFR",
+            "description": "Infrastructure"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "FO",
+            "description": "Family Office"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2014-04-12",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "54620-20",
+      "investorName": "Lone Pine Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "HD",
+            "description": "Hedge Fund"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "AMAN",
+            "description": "Asset Manager"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2014-04-12",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "109442-35",
+      "investorName": "Man Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "RE",
+            "description": "Real Estate"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "FO",
+            "description": "Family Office"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2014-04-12",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "11251-81",
+      "investorName": "New Enterprise Associates",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2014-04-12",
+      "investorExit": "2018-12-03",
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "25344-19",
+      "investorName": "Qatar Investment Authority",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "IB",
+            "description": "Investment Bank"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "RE",
+            "description": "Real Estate"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "INFR",
+            "description": "Infrastructure"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "SWF",
+            "description": "Sovereign Wealth Fund"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2014-04-12",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "54819-55",
+      "investorName": "Swordfish Investments",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2014-04-12",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "10072-54",
+      "investorName": "T. Rowe Price",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "AMAN",
+            "description": "Asset Manager"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "MF",
+            "description": "Mutual Fund"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2014-04-12",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "53004-43",
+      "investorName": "Valiant Capital Partners",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "HD",
+            "description": "Hedge Fund"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2014-04-12",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "56096-29",
+      "investorName": "ACME Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2013-08-23",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "99470-98",
+      "investorName": "Fabrice Grinda",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2013-08-23",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "49063-60",
+      "investorName": "GV",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "CV",
+            "description": "Corporate Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2013-08-23",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "105847-12",
+      "investorName": "Kevin Hartz",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2013-08-23",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "10051-21",
+      "investorName": "TPG",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "RE",
+            "description": "Real Estate"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "INFR",
+            "description": "Infrastructure"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "AMAN",
+            "description": "Asset Manager"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "HD",
+            "description": "Hedge Fund"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "FOF",
+            "description": "Fund of Funds"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2013-08-23",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "111154-96",
+      "investorName": "Babak Yazdani",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2012-02-09",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "40830-76",
+      "investorName": "Bezos Expeditions",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "FO",
+            "description": "Family Office"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2012-02-09",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "120547-90",
+      "investorName": "Dror Berman",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2012-02-09",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "119842-84",
+      "investorName": "Eric Paley",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2012-02-09",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "61040-17",
+      "investorName": "Goldman Sachs Investment Partners",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "HD",
+            "description": "Hedge Fund"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "AMAN",
+            "description": "Asset Manager"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2012-02-09",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "11242-54",
+      "investorName": "Menlo Ventures",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "OT",
+            "description": "Other"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2012-02-09",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "106029-28",
+      "investorName": "Nihal Mehta",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2012-02-09",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "167818-33",
+      "investorName": "Olive Tree Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "II",
+            "description": "Impact Investing"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "FO",
+            "description": "Family Office"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "SEC",
+            "description": "Secondary Buyer"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2012-02-09",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "105942-88",
+      "investorName": "Robert Brannigan",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2012-02-09",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "106210-45",
+      "investorName": "Shawn Carter",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2012-02-09",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "106008-13",
+      "investorName": "Shervin Pishevar",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2012-02-09",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "109500-58",
+      "investorName": "Signatures Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2012-02-09",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "10043-83",
+      "investorName": "The Goldman Sachs Group",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "IB",
+            "description": "Investment Bank"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2012-02-09",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "10243-63",
+      "investorName": "The Yucaipa Companies",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "PEBO",
+            "description": "PE/Buyout"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2012-02-09",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "52815-70",
+      "investorName": "Tuesday Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "OT",
+            "description": "Other"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2012-02-09",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "106639-30",
+      "investorName": "Zachary Bogue",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2012-02-09",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "11133-01",
+      "investorName": "Benchmark (San Francisco)",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2011-02-14",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "51768-10",
+      "investorName": "Innovation Endeavors",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2011-02-14",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "105853-51",
+      "investorName": "Kees Koolen",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2011-02-14",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "57998-80",
+      "investorName": "Lead Edge Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2011-02-14",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "58362-22",
+      "investorName": "Structure Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2011-02-14",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "57374-65",
+      "investorName": "RocketSpace",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ACINC",
+            "description": "Accelerator/Incubator"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2011-01-01",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "156492-91",
+      "investorName": "Adam Leber",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "52604-38",
+      "investorName": "A-Grade Investments",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "AN",
+            "description": "Angel Group"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "105883-84",
+      "investorName": "Alfred Lin",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "106033-87",
+      "investorName": "Ashton Kutcher",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "226731-61",
+      "investorName": "Babak Nivi",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": "2019-05-10",
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "106605-01",
+      "investorName": "Bill Trenchard",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "106562-17",
+      "investorName": "Brian Chesky",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "106364-26",
+      "investorName": "Bryan Johnson",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "106060-60",
+      "investorName": "Cyan Banister",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "106145-83",
+      "investorName": "David Cohen",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "105939-37",
+      "investorName": "David Sacks",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "106470-64",
+      "investorName": "Diego Berdakin",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "11189-44",
+      "investorName": "First Round Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "40829-14",
+      "investorName": "Founder Collective",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": "2019-05-10",
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "106060-33",
+      "investorName": "Gary Vaynerchuk",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "105943-87",
+      "investorName": "James Pallotta",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "105847-84",
+      "investorName": "Jason Calacanis",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "106275-25",
+      "investorName": "Jason Port",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "106212-52",
+      "investorName": "Jeffrey Bezos",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "105983-38",
+      "investorName": "Jeremy Stoppelman",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "106175-71",
+      "investorName": "Joshua Spear",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "51639-67",
+      "investorName": "Kapor Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "II",
+            "description": "Impact Investing"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "120416-23",
+      "investorName": "Khaled Helioui",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "223507-63",
+      "investorName": "Kindred Ventures",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "57631-06",
+      "investorName": "Launch Fund",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ACINC",
+            "description": "Accelerator/Incubator"
+          },
+          "primary": true
+        },
+        {
+          "type": {
+            "code": "OT",
+            "description": "Other"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "41895-55",
+      "investorName": "Lowercase Capital",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "119671-30",
+      "investorName": "Mark Hager",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "106036-75",
+      "investorName": "Matthew Ocko",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "112771-54",
+      "investorName": "Mike Walsh",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "106128-19",
+      "investorName": "Naval Ravikant",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "52916-50",
+      "investorName": "Raptor Group",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "463292-56",
+      "investorName": "Ricardo Rodriguez",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": "2019-05-10",
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "105884-65",
+      "investorName": "Scott Banister",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "106022-53",
+      "investorName": "Scott Belsky",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "106507-00",
+      "investorName": "Shawn Fanning",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "50933-44",
+      "investorName": "Techstars",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "VC",
+            "description": "Venture Capital"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "II",
+            "description": "Impact Investing"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "ACINC",
+            "description": "Accelerator/Incubator"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "106146-46",
+      "investorName": "Troy Carter",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "ANI",
+            "description": "Angel (individual)"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": "2010-09-22",
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    },
+    {
+      "companyId": "51136-75",
+      "investorId": "267507-55",
+      "investorName": "Pulsar Capital Management",
+      "investorTypes": [
+        {
+          "type": {
+            "code": "Debt",
+            "description": "Lender/Debt Provider"
+          },
+          "primary": false
+        },
+        {
+          "type": {
+            "code": "GWTHEX",
+            "description": "Growth/Expansion"
+          },
+          "primary": true
+        }
+      ],
+      "investorSince": null,
+      "investorExit": null,
+      "investorStatus": {
+        "code": "WO",
+        "description": "Former Investor"
+      }
+    }
+  ]
+}

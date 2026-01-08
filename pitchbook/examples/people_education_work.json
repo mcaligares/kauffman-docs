@@ -1,0 +1,359 @@
+{
+  "personId": "53503-66P",
+  "fullName": "Thomas Faust Jr.",
+  "education": [
+    {
+      "institution": "Massachusetts Institute of Technology (MIT)",
+      "degree": "BS (Bachelor of Science)",
+      "yearOfGraduation": 1981
+    },
+    {
+      "institution": "Harvard Business School",
+      "degree": "MBA (Master of Business Administration)",
+      "yearOfGraduation": 1985
+    }
+  ],
+  "companyRoles": [
+    {
+      "companyId": "100146-79",
+      "companyName": "Eaton Vance CA Muni Income Trust",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "100147-15",
+      "companyName": "Eaton Vance California Municipal Bond Fund",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "308328-40",
+      "companyName": "Eaton Vance Enhanced Equity Income Fund",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "308337-76",
+      "companyName": "Eaton Vance Enhanced Equity Income II",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "312704-02",
+      "companyName": "Eaton Vance Floating-Rate 2022 Target Term Trust Fund",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "308353-60",
+      "companyName": "Eaton Vance Floating-rate Income",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "312696-10",
+      "companyName": "Eaton Vance High Income 2021 Target Term Trust",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "100148-68",
+      "companyName": "Eaton Vance Limited Duration Income",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "105768-91",
+      "companyName": "Eaton Vance Municipal Bond Fund",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "98411-86",
+      "companyName": "Eaton Vance Municipal Income 2028 Term Trust",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "308372-95",
+      "companyName": "Eaton Vance Municipal Income Trust",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "312594-76",
+      "companyName": "Eaton Vance National Municipal Opportunities Trust",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "100147-87",
+      "companyName": "Eaton Vance New York Municipal Bond Fund",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "100149-22",
+      "companyName": "Eaton Vance New York Municipal Income Trust",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "312580-81",
+      "companyName": "Eaton Vance Risk-Managed Diversified Equity Income Fund",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "308382-13",
+      "companyName": "Eaton Vance Senior Floating Rate Trust",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "308391-49",
+      "companyName": "Eaton Vance Senior Income",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "312459-04",
+      "companyName": "Eaton Vance Short Duration Diversified Income Fund",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "312659-29",
+      "companyName": "Eaton Vance Tax-Advantaged Bond and Option Strategies Fund",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "312468-31",
+      "companyName": "Eaton Vance Tax-Advantaged Dividend Income Fund",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "312483-52",
+      "companyName": "Eaton Vance Tax-Advantaged Global Dividend Income Fund",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "312494-32",
+      "companyName": "Eaton Vance Tax-Advantaged Global Dividend Opportunities Fund",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "312520-42",
+      "companyName": "Eaton Vance Tax-Managed Buy-Write Income Fund",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "312533-38",
+      "companyName": "Eaton Vance Tax-Managed Buy-Write Opportunities Fund",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "312555-61",
+      "companyName": "Eaton Vance Tax-Managed Diversified Equity Income Fund",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "312543-64",
+      "companyName": "Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "312572-62",
+      "companyName": "Eaton Vance Tax-Managed Global Diversified Equity Income Fund",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Current",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "10641-07",
+      "companyName": "Eaton Vance",
+      "position": "Chief Executive Officer, Chairman & President",
+      "positionType": "Employee",
+      "positionStatus": "Former",
+      "positionStart": "1985-01-01",
+      "positionFinish": null
+    },
+    {
+      "companyId": "312679-99",
+      "companyName": "EV Floating-Rate Income Plus Fund",
+      "position": "Trustee",
+      "positionType": "Non-Employee",
+      "positionStatus": "Former",
+      "positionStart": "2007-01-01",
+      "positionFinish": null
+    }
+  ],
+  "boardSeats": [
+    {
+      "boardCompanyId": "10641-07",
+      "boardCompanyName": "Eaton Vance",
+      "boardRepresentingId": null,
+      "boardRepresentingName": null,
+      "positionStatus": "Former",
+      "boardStart": "1985-01-01",
+      "boardFinish": null
+    }
+  ],
+  "currentAdvisoryRoles": [],
+  "dealRoles": [
+    {
+      "dealId": "107390-53T",
+      "dealDate": "2018-06-13",
+      "companyId": "54107-11",
+      "companyName": "SigFig",
+      "representingId": "10641-07",
+      "representingName": "Eaton Vance"
+    },
+    {
+      "dealId": "70356-52T",
+      "dealDate": "2016-05-16",
+      "companyId": "54107-11",
+      "companyName": "SigFig",
+      "representingId": "10641-07",
+      "representingName": "Eaton Vance"
+    },
+    {
+      "dealId": "61236-10T",
+      "dealDate": "2012-08-06",
+      "companyId": "111543-40",
+      "companyName": "Hexavest",
+      "representingId": "10641-07",
+      "representingName": "Eaton Vance"
+    },
+    {
+      "dealId": "56796-58T",
+      "dealDate": "2010-11-22",
+      "companyId": "115161-04",
+      "companyName": "Managed ETFs",
+      "representingId": "10641-07",
+      "representingName": "Eaton Vance"
+    },
+    {
+      "dealId": "66661-30T",
+      "dealDate": "2008-12-31",
+      "companyId": "123347-08",
+      "companyName": "M.D. Sass Investors Services (TABS Business)",
+      "representingId": "10641-07",
+      "representingName": "Eaton Vance"
+    }
+  ],
+  "fundRoles": [
+    {
+      "fundId": "13367-08F",
+      "fundName": "Eaton Vance Small Cap Core Fund",
+      "investorId": "10641-07",
+      "investorName": "Eaton Vance",
+      "representingId": "10641-07",
+      "representingName": "Eaton Vance"
+    },
+    {
+      "fundId": "13843-18F",
+      "fundName": "Eaton Vance Global Macro Plus Fund",
+      "investorId": "10641-07",
+      "investorName": "Eaton Vance",
+      "representingId": "10641-07",
+      "representingName": "Eaton Vance"
+    },
+    {
+      "fundId": "15858-19F",
+      "fundName": "Eaton Vance Institutional Senior Loan Plus Fund",
+      "investorId": "10641-07",
+      "investorName": "Eaton Vance",
+      "representingId": "10641-07",
+      "representingName": "Eaton Vance"
+    }
+  ]
+}

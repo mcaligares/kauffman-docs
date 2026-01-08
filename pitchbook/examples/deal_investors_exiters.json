@@ -1,0 +1,42 @@
+{
+  "dealId": "52721-65T",
+  "companyId": "118990-00",
+  "companyName": "Owl Labs",
+  "investors": [
+    {
+      "investorId": "51427-00",
+      "investorName": "Bantam Group",
+      "investmentStatus": "New Investor",
+      "leadSoleInvestor": true,
+      "leadPartnerId": null,
+      "leadPartnerName": null,
+      "investorFunds": [],
+      "investmentAmount": null,
+      "formOfPayment": {
+        "code": "C",
+        "description": "Cash"
+      }
+    },
+    {
+      "investorId": "111213-01",
+      "investorName": "Playground Global",
+      "investmentStatus": "New Investor",
+      "leadSoleInvestor": true,
+      "leadPartnerId": "44974-99P",
+      "leadPartnerName": "Bruce Leak",
+      "investorFunds": [
+        {
+          "fundId": "15333-31F",
+          "fundName": "Playground Ventures"
+        }
+      ],
+      "investmentAmount": null,
+      "formOfPayment": {
+        "code": "C",
+        "description": "Cash"
+      }
+    }
+  ],
+  "sellers": [],
+  "exiters": []
+}

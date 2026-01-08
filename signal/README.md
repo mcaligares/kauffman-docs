@@ -36,13 +36,6 @@ Signal proporciona datos de **Investment Data** que complementan o podrían reem
 | Rango de inversión (min/max/target) | Alta | Investment focus |
 | URLs sociales (LinkedIn, Twitter, Crunchbase) | Alta | Contact enrichment |
 
-### Ventajas sobre Crunchbase
-
-1. **Gratis** - No requiere suscripción enterprise
-2. **Datos específicos de inversores** - Enfocado en VCs, no solo companies
-3. **API GraphQL accesible** - Permite automatización
-4. **Perfiles públicos** - Acceso directo via URL sin autenticación
-
 ---
 
 ## Métodos de Acceso a Datos
@@ -228,16 +221,6 @@ Cada inversión incluye:
 | Fund Size | ✅ | Alta | `firm.current_fund_size` |
 | Investment Range | ✅ | Alta | `min_investment`, `max_investment`, `target_investment` |
 | Location | ✅ | Alta | `location`, `investment_locations` |
-
-### Comparativa con Otras Fuentes
-
-| Característica | Apollo | Crunchbase | Signal |
-|----------------|--------|------------|--------|
-| Personal Data | ✅ Alta | ⚠️ Media | ⚠️ Media |
-| Investment Data | ❌ Baja | ✅ Alta | ✅ Alta |
-| Precio | $$$  | $$$ | **Gratis** |
-| API Oficial | ✅ Sí | ✅ Sí | ❌ No oficial |
-| Rate Limits | Conocidos | Conocidos | Desconocidos |
 
 ---
 

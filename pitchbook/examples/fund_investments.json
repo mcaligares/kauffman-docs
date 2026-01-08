@@ -1,0 +1,69 @@
+{
+  "fundId": "14650-30F",
+  "fundName": "137 Ventures II",
+  "investments": [
+    {
+      "targetCompanyId": "108107-02",
+      "targetCompanyName": "Virgin Hyperloop",
+      "investmentStatus": "Active Investments",
+      "targetCompanyInvestmentDate": "2016-05-11",
+      "investmentDealId": "57541-42T",
+      "targetCompanyExitDate": null,
+      "exitDealId": null
+    },
+    {
+      "targetCompanyId": "94615-48",
+      "targetCompanyName": "Curology",
+      "investmentStatus": "Active Investments",
+      "targetCompanyInvestmentDate": "2016-04-18",
+      "investmentDealId": "72217-18T",
+      "targetCompanyExitDate": null,
+      "exitDealId": null
+    },
+    {
+      "targetCompanyId": "54244-00",
+      "targetCompanyName": "Course Hero",
+      "investmentStatus": "Active Investments",
+      "targetCompanyInvestmentDate": "2014-11-11",
+      "investmentDealId": "39317-32T",
+      "targetCompanyExitDate": null,
+      "exitDealId": null
+    },
+    {
+      "targetCompanyId": "51261-67",
+      "targetCompanyName": "Airbnb",
+      "investmentStatus": "Former Investments",
+      "targetCompanyInvestmentDate": "2017-09-02",
+      "investmentDealId": "72222-04T",
+      "targetCompanyExitDate": null,
+      "exitDealId": null
+    },
+    {
+      "targetCompanyId": "135942-04",
+      "targetCompanyName": "Immersv",
+      "investmentStatus": "Former Investments",
+      "targetCompanyInvestmentDate": "2015-10-01",
+      "investmentDealId": "65898-91T",
+      "targetCompanyExitDate": null,
+      "exitDealId": null
+    },
+    {
+      "targetCompanyId": "55579-06",
+      "targetCompanyName": "Munchery",
+      "investmentStatus": "Former Investments",
+      "targetCompanyInvestmentDate": "2015-05-27",
+      "investmentDealId": "50661-46T",
+      "targetCompanyExitDate": "2019-03-04",
+      "exitDealId": "116988-40T"
+    },
+    {
+      "targetCompanyId": "51736-87",
+      "targetCompanyName": "Coupang",
+      "investmentStatus": "Former Investments",
+      "targetCompanyInvestmentDate": "2015-01-09",
+      "investmentDealId": "40292-02T",
+      "targetCompanyExitDate": null,
+      "exitDealId": null
+    }
+  ]
+}

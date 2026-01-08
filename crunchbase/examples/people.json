@@ -1,0 +1,111 @@
+{
+  "count": 0,
+  "entities": [
+    {
+      "aliases": [
+        "string"
+      ],
+      "born_on": "2026-01-07",
+      "created_at": "2026-01-07T20:01:11.223Z",
+      "description": "string",
+      "died_on": "2026-01-07",
+      "entity_def_id": "person",
+      "facebook": {
+        "label": "string",
+        "value": "string"
+      },
+      "facet_ids": [
+        "investor"
+      ],
+      "first_name": "string",
+      "gender": "female",
+      "identifier": {
+        "entity_def_id": "acquisition",
+        "image_id": "string",
+        "permalink": "string",
+        "uuid": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "value": "string"
+      },
+      "image_id": "string",
+      "image_url": "string",
+      "investor_stage": [
+        "seed"
+      ],
+      "investor_type": [
+        "angel"
+      ],
+      "last_name": "string",
+      "layout_id": "investor",
+      "linkedin": {
+        "label": "string",
+        "value": "string"
+      },
+      "location_group_identifiers": [
+        {
+          "entity_def_id": "string",
+          "image_id": "string",
+          "location_type": "city",
+          "permalink": "string",
+          "uuid": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "value": "string"
+        }
+      ],
+      "location_identifiers": [
+        {
+          "entity_def_id": "string",
+          "image_id": "string",
+          "location_type": "city",
+          "permalink": "string",
+          "uuid": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "value": "string"
+        }
+      ],
+      "middle_name": "string",
+      "name": "string",
+      "num_articles": 0,
+      "num_current_advisor_jobs": 0,
+      "num_current_jobs": 0,
+      "num_diversity_spotlight_investments": 0,
+      "num_event_appearances": 0,
+      "num_exits": 0,
+      "num_exits_ipo": 0,
+      "num_founded_organizations": 0,
+      "num_investments": 0,
+      "num_jobs": 0,
+      "num_lead_investments": 0,
+      "num_partner_investments": 0,
+      "num_past_advisor_jobs": 0,
+      "num_past_jobs": 0,
+      "num_portfolio_organizations": 0,
+      "permalink": "string",
+      "permalink_aliases": [
+        "string"
+      ],
+      "primary_job_title": "string",
+      "primary_organization": {
+        "entity_def_id": "acquisition",
+        "image_id": "string",
+        "permalink": "string",
+        "uuid": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "value": "string"
+      },
+      "rank": 0,
+      "rank_delta_d30": 0,
+      "rank_delta_d7": 0,
+      "rank_delta_d90": 0,
+      "rank_person": 0,
+      "short_description": "string",
+      "twitter": {
+        "label": "string",
+        "value": "string"
+      },
+      "updated_at": "2026-01-07T20:01:11.223Z",
+      "uuid": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "website": {
+        "label": "string",
+        "value": "string"
+      },
+      "website_url": "string"
+    }
+  ]
+}

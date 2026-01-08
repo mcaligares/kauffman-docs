@@ -1,0 +1,159 @@
+{
+  "count": 2,
+  "entities": [
+    {
+      "uuid": "fr-98765-zyxwv-43210",
+      "entity_def_id": "funding_round",
+      "announced_on": "2018-06-17",
+      "closed_on": "2018-06-20",
+      "created_at": "2018-06-18T08:00:00.000Z",
+      "updated_at": "2024-01-10T12:00:00.000Z",
+      "funded_organization_identifier": {
+        "uuid": "org-rappi-uuid-12345",
+        "entity_def_id": "organization",
+        "permalink": "rappi",
+        "value": "Rappi"
+      },
+      "funded_organization_categories": [
+        "delivery",
+        "e-commerce",
+        "logistics"
+      ],
+      "funded_organization_description": "Rappi is a Colombian technology company that operates a delivery app.",
+      "funded_organization_funding_stage": "early_stage_venture",
+      "funded_organization_funding_total": {
+        "currency": "USD",
+        "value": 200000000,
+        "value_usd": 200000000
+      },
+      "funded_organization_location": [
+        {
+          "value": "Mexico City",
+          "location_type": "city"
+        },
+        {
+          "value": "Mexico",
+          "location_type": "country"
+        }
+      ],
+      "investment_stage": "series_a",
+      "investment_type": "series_a",
+      "investor_identifiers": [
+        {
+          "uuid": "person-allen-taylor-uuid",
+          "entity_def_id": "person",
+          "permalink": "allen-taylor",
+          "value": "Allen Taylor"
+        },
+        {
+          "uuid": "org-endeavor-catalyst-uuid",
+          "entity_def_id": "organization",
+          "permalink": "endeavor-catalyst",
+          "value": "Endeavor Catalyst"
+        }
+      ],
+      "is_equity": true,
+      "lead_investor_identifiers": [
+        {
+          "uuid": "org-andreessen-horowitz-uuid",
+          "entity_def_id": "organization",
+          "permalink": "andreessen-horowitz",
+          "value": "Andreessen Horowitz"
+        }
+      ],
+      "money_raised": {
+        "currency": "USD",
+        "value": 40000000,
+        "value_usd": 40000000
+      },
+      "name": "Series A - Rappi",
+      "num_investors": 5,
+      "num_partners": 2,
+      "post_money_valuation": {
+        "currency": "USD",
+        "value": 663320000,
+        "value_usd": 663320000
+      },
+      "pre_money_valuation": {
+        "currency": "USD",
+        "value": 623320000,
+        "value_usd": 623320000
+      },
+      "short_description": "Series A funding round for Rappi"
+    },
+    {
+      "uuid": "fr-11111-aaaaa-22222",
+      "entity_def_id": "funding_round",
+      "announced_on": "2018-07-24",
+      "closed_on": "2018-07-30",
+      "created_at": "2018-07-25T10:00:00.000Z",
+      "updated_at": "2024-02-05T09:30:00.000Z",
+      "funded_organization_identifier": {
+        "uuid": "org-loft-uuid-67890",
+        "entity_def_id": "organization",
+        "permalink": "loft",
+        "value": "Loft"
+      },
+      "funded_organization_categories": [
+        "real_estate",
+        "proptech"
+      ],
+      "funded_organization_description": "Loft is a real estate technology company in Brazil.",
+      "funded_organization_funding_stage": "early_stage_venture",
+      "funded_organization_funding_total": {
+        "currency": "USD",
+        "value": 50000000,
+        "value_usd": 50000000
+      },
+      "funded_organization_location": [
+        {
+          "value": "São Paulo",
+          "location_type": "city"
+        },
+        {
+          "value": "Brazil",
+          "location_type": "country"
+        }
+      ],
+      "investment_stage": "series_a",
+      "investment_type": "series_a",
+      "investor_identifiers": [
+        {
+          "uuid": "person-allen-taylor-uuid",
+          "entity_def_id": "person",
+          "permalink": "allen-taylor",
+          "value": "Allen Taylor"
+        }
+      ],
+      "is_equity": true,
+      "lead_investor_identifiers": [
+        {
+          "uuid": "org-monashees-uuid",
+          "entity_def_id": "organization",
+          "permalink": "monashees",
+          "value": "Monashees+"
+        }
+      ],
+      "money_raised": {
+        "currency": "USD",
+        "value": 17600000,
+        "value_usd": 17600000
+      },
+      "name": "Series A - Loft",
+      "num_investors": 3,
+      "num_partners": 1,
+      "post_money_valuation": {
+        "currency": "USD",
+        "value": 100000000,
+        "value_usd": 100000000
+      },
+      "pre_money_valuation": {
+        "currency": "USD",
+        "value": 82400000,
+        "value_usd": 82400000
+      },
+      "short_description": "Series A funding round for Loft"
+    }
+  ]
+}
+

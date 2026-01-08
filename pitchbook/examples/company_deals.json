@@ -1,0 +1,356 @@
+[
+  {
+    "companyId": "51136-75",
+    "dealId": "18019-54T",
+    "dealDate": "2010-09-22",
+    "dealType1": {
+      "code": "Seed",
+      "description": "Seed Round"
+    },
+    "dealType2": null,
+    "dealType3": null,
+    "dealNumber": 1
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "56494-45T",
+    "dealDate": "2011-01-01",
+    "dealType1": {
+      "code": "SeedA",
+      "description": "Accelerator/Incubator"
+    },
+    "dealType2": null,
+    "dealType3": null,
+    "dealNumber": 2
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "18058-24T",
+    "dealDate": "2011-02-14",
+    "dealType1": {
+      "code": "EVC",
+      "description": "Early Stage VC"
+    },
+    "dealType2": {
+      "code": "A",
+      "description": "Series A"
+    },
+    "dealType3": null,
+    "dealNumber": 3
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "19876-42T",
+    "dealDate": "2012-02-09",
+    "dealType1": {
+      "code": "LVC",
+      "description": "Later Stage VC"
+    },
+    "dealType2": {
+      "code": "B",
+      "description": "Series B"
+    },
+    "dealType3": null,
+    "dealNumber": 4
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "26854-12T",
+    "dealDate": "2013-08-23",
+    "dealType1": {
+      "code": "LVC",
+      "description": "Later Stage VC"
+    },
+    "dealType2": {
+      "code": "D",
+      "description": "Series D"
+    },
+    "dealType3": null,
+    "dealNumber": 5
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "34391-35T",
+    "dealDate": "2014-06-06",
+    "dealType1": {
+      "code": "LVC",
+      "description": "Later Stage VC"
+    },
+    "dealType2": {
+      "code": "D",
+      "description": "Series D"
+    },
+    "dealType3": null,
+    "dealNumber": 6
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "39232-45T",
+    "dealDate": "2014-04-12",
+    "dealType1": {
+      "code": "LVC",
+      "description": "Later Stage VC"
+    },
+    "dealType2": {
+      "code": "E",
+      "description": "Series E"
+    },
+    "dealType3": null,
+    "dealNumber": 7
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "44714-62T",
+    "dealDate": "2015-01-21",
+    "dealType1": {
+      "code": "Debt",
+      "description": "Debt - General"
+    },
+    "dealType2": {
+      "code": "CBND",
+      "description": "Bonds (Convertible)"
+    },
+    "dealType3": null,
+    "dealNumber": 8
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "40386-97T",
+    "dealDate": "2015-02-18",
+    "dealType1": {
+      "code": "LVC",
+      "description": "Later Stage VC"
+    },
+    "dealType2": {
+      "code": "E",
+      "description": "Series E"
+    },
+    "dealType3": null,
+    "dealNumber": 9
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "49940-38T",
+    "dealDate": "2015-06-19",
+    "dealType1": {
+      "code": "Debt",
+      "description": "Debt - General"
+    },
+    "dealType2": null,
+    "dealType3": null,
+    "dealNumber": 10
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "54620-02T",
+    "dealDate": "2015-07-31",
+    "dealType1": {
+      "code": "LVC",
+      "description": "Later Stage VC"
+    },
+    "dealType2": {
+      "code": "F",
+      "description": "Series F"
+    },
+    "dealType3": null,
+    "dealNumber": 11
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "59937-31T",
+    "dealDate": "2016-05-24",
+    "dealType1": {
+      "code": "LVC",
+      "description": "Later Stage VC"
+    },
+    "dealType2": {
+      "code": "G",
+      "description": "Series G"
+    },
+    "dealType3": null,
+    "dealNumber": 12
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "71622-01T",
+    "dealDate": "2016-07-07",
+    "dealType1": {
+      "code": "Debt",
+      "description": "Debt - General"
+    },
+    "dealType2": null,
+    "dealType3": null,
+    "dealNumber": 13
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "73631-89T",
+    "dealDate": "2016-08-01",
+    "dealType1": {
+      "code": "Corp",
+      "description": "Corporate"
+    },
+    "dealType2": null,
+    "dealType3": null,
+    "dealNumber": 14
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "100774-27T",
+    "dealDate": "2016-09-16",
+    "dealType1": {
+      "code": "SECT",
+      "description": "Secondary Transaction - Private"
+    },
+    "dealType2": null,
+    "dealType3": null,
+    "dealNumber": 15
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "76105-72T",
+    "dealDate": "2016-09-22",
+    "dealType1": {
+      "code": "LVC",
+      "description": "Later Stage VC"
+    },
+    "dealType2": null,
+    "dealType3": null,
+    "dealNumber": 16
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "86617-63T",
+    "dealDate": "2017-04-19",
+    "dealType1": {
+      "code": "Corp",
+      "description": "Corporate"
+    },
+    "dealType2": null,
+    "dealType3": null,
+    "dealNumber": 17
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "90838-27T",
+    "dealDate": "2018-01-18",
+    "dealType1": {
+      "code": "SECT",
+      "description": "Secondary Transaction - Private"
+    },
+    "dealType2": null,
+    "dealType3": null,
+    "dealNumber": 18
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "102608-20T",
+    "dealDate": "2018-03-22",
+    "dealType1": {
+      "code": "Debt",
+      "description": "Debt - General"
+    },
+    "dealType2": null,
+    "dealType3": null,
+    "dealNumber": 19
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "106426-81T",
+    "dealDate": "2018-05-23",
+    "dealType1": {
+      "code": "SECT",
+      "description": "Secondary Transaction - Private"
+    },
+    "dealType2": null,
+    "dealType3": null,
+    "dealNumber": 20
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "110937-43T",
+    "dealDate": "2018-09-03",
+    "dealType1": {
+      "code": "Corp",
+      "description": "Corporate"
+    },
+    "dealType2": null,
+    "dealType3": null,
+    "dealNumber": 21
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "112999-96T",
+    "dealDate": "2018-10-18",
+    "dealType1": {
+      "code": "Debt",
+      "description": "Debt - General"
+    },
+    "dealType2": null,
+    "dealType3": null,
+    "dealNumber": 22
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "118956-79T",
+    "dealDate": "2018-12-03",
+    "dealType1": {
+      "code": "SECT",
+      "description": "Secondary Transaction - Private"
+    },
+    "dealType2": null,
+    "dealType3": null,
+    "dealNumber": 23
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "92819-08T",
+    "dealDate": "2018-12-28",
+    "dealType1": {
+      "code": "LVC",
+      "description": "Later Stage VC"
+    },
+    "dealType2": {
+      "code": "G",
+      "description": "Series G"
+    },
+    "dealType3": null,
+    "dealNumber": 24
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "172184-05T",
+    "dealDate": "2019-03-24",
+    "dealType1": {
+      "code": "SECT",
+      "description": "Secondary Transaction - Private"
+    },
+    "dealType2": null,
+    "dealType3": null,
+    "dealNumber": 25
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "114489-37T",
+    "dealDate": "2019-05-10",
+    "dealType1": {
+      "code": "IPO",
+      "description": "IPO"
+    },
+    "dealType2": null,
+    "dealType3": null,
+    "dealNumber": 26
+  },
+  {
+    "companyId": "51136-75",
+    "dealId": "118474-12T",
+    "dealDate": "2019-05-10",
+    "dealType1": {
+      "code": "PIPE",
+      "description": "PIPE"
+    },
+    "dealType2": null,
+    "dealType3": null,
+    "dealNumber": 27
+  }
+]

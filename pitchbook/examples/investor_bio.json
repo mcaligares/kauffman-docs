@@ -1,0 +1,50 @@
+{
+  "investorId": "58781-35",
+  "investorName": {
+    "formalName": "137 Ventures",
+    "alsoKnownAs": "137",
+    "legalName": "137 Ventures Management, LLC",
+    "formerlyKnownAs": null
+  },
+  "hqLocation": {
+    "city": "San Francisco",
+    "stateProvince": "California",
+    "postCode": "94108",
+    "country": "United States"
+  },
+  "description": {
+    "brief": null,
+    "full": "Founded in 2011, 137 Ventures is a growth-stage venture firm that prefers to invest in private technology companies. The firm is based in San Francisco, California."
+  },
+  "investorStatus": {
+    "code": "ACT",
+    "description": "Actively Seeking New Investments"
+  },
+  "investorType": [
+    {
+      "type": {
+        "code": "VC",
+        "description": "Venture Capital"
+      },
+      "primary": true
+    }
+  ],
+  "assetsUnderManagement": {
+    "amount": 1000000000,
+    "currency": "USD",
+    "nativeAmount": 1000000000,
+    "nativeCurrency": "USD",
+    "estimated": false
+  },
+  "dryPowder": {
+    "amount": 290997281.36,
+    "currency": "USD",
+    "nativeAmount": 290997281.36,
+    "nativeCurrency": "USD",
+    "estimated": false
+  },
+  "yearFounded": 2011,
+  "website": "www.137ventures.com",
+  "countInvestmentProfessionals": 8,
+  "tradeAssociations": []
+}

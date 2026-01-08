@@ -1,0 +1,68 @@
+{
+  "fundId": "14650-30F",
+  "name": "137 Ventures II",
+  "fundInvestors": [
+    {
+      "investorId": "58781-35",
+      "investorName": "137 Ventures",
+      "fundNo": 2,
+      "firstFund": false
+    }
+  ],
+  "vintage": 2014,
+  "fundStatus": "Closed",
+  "fundType": "Venture - General",
+  "fundSize": {
+    "amount": 137951530,
+    "currency": "USD",
+    "nativeAmount": 137951530,
+    "nativeCurrency": "USD",
+    "estimated": false
+  },
+  "location": {
+    "location": "San Francisco, CA",
+    "addressLine1": "49 Geary Street",
+    "addressLine2": null,
+    "city": "San Francisco",
+    "stateProvince": null,
+    "postCode": "94108",
+    "country": "United States",
+    "phone": "+1 (855) 731-1337",
+    "fax": null,
+    "email": "info@137ventures.com",
+    "globalRegion": "Americas",
+    "globalSubRegion": "North America"
+  },
+  "fundTeam": [
+    {
+      "personId": "42968-89P",
+      "personFullName": "Alda Dennis JD"
+    },
+    {
+      "personId": "30923-20P",
+      "personFullName": "Andrew Laszlo JD"
+    },
+    {
+      "personId": "53352-19P",
+      "personFullName": "Justin Fishner-Wolfson"
+    },
+    {
+      "personId": "55426-15P",
+      "personFullName": "S. Alexander Jacobson"
+    }
+  ],
+  "openDate": "2013-09-12",
+  "closeDate": "2014-07-09",
+  "fundTargetSize": {
+    "min": {
+      "amount": 137951530,
+      "currency": "USD",
+      "nativeAmount": 137951530,
+      "nativeCurrency": "USD",
+      "estimated": false
+    },
+    "max": null
+  },
+  "sbic": false,
+  "returnsInfoAvailable": []
+}

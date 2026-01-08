@@ -1,0 +1,21 @@
+{
+  "dealId": "52721-65T",
+  "dealNumber": 1,
+  "companyId": "118990-00",
+  "companyName": "Owl Labs",
+  "preValuation": {
+    "amount": 8900000,
+    "currency": "USD",
+    "nativeAmount": 8900000,
+    "nativeCurrency": "USD",
+    "estimated": false
+  },
+  "postValuation": {
+    "amount": 10200000,
+    "currency": "USD",
+    "nativeAmount": 10200000,
+    "nativeCurrency": "USD",
+    "estimated": false
+  },
+  "postValuationStatus": "Actual"
+}

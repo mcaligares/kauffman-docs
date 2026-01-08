@@ -1,0 +1,86 @@
+{
+  "investorId": "58781-35",
+  "stats": {
+    "totalFundsOpen": 3,
+    "totalFundsClosed": 4
+  },
+  "minFundSize": {
+    "amount": 50000000,
+    "currency": "USD",
+    "nativeAmount": 50000000,
+    "nativeCurrency": "USD",
+    "estimated": false
+  },
+  "medianFundSize": {
+    "amount": 137951520,
+    "currency": "USD",
+    "nativeAmount": 137951520,
+    "nativeCurrency": "USD",
+    "estimated": false
+  },
+  "maxFundSize": {
+    "amount": 210000000,
+    "currency": "USD",
+    "nativeAmount": 210000000,
+    "nativeCurrency": "USD",
+    "estimated": false
+  },
+  "fundInfo": [
+    {
+      "fundId": "18673-75F",
+      "fundName": "137 Opportunity Fund",
+      "fundType": {
+        "code": "VC",
+        "description": "Venture - General"
+      }
+    },
+    {
+      "fundId": "17664-40F",
+      "fundName": "Astronave Holdings II",
+      "fundType": {
+        "code": "VC",
+        "description": "Venture - General"
+      }
+    },
+    {
+      "fundId": "17669-80F",
+      "fundName": "137 Ventures V",
+      "fundType": {
+        "code": "VC",
+        "description": "Venture - General"
+      }
+    },
+    {
+      "fundId": "16210-72F",
+      "fundName": "137 Ventures IV",
+      "fundType": {
+        "code": "VC",
+        "description": "Venture - General"
+      }
+    },
+    {
+      "fundId": "15139-90F",
+      "fundName": "137 Ventures III",
+      "fundType": {
+        "code": "VC",
+        "description": "Venture - General"
+      }
+    },
+    {
+      "fundId": "14650-30F",
+      "fundName": "137 Ventures II",
+      "fundType": {
+        "code": "VC",
+        "description": "Venture - General"
+      }
+    },
+    {
+      "fundId": "14651-83F",
+      "fundName": "137 Ventures",
+      "fundType": {
+        "code": "VC",
+        "description": "Venture - General"
+      }
+    }
+  ]
+}

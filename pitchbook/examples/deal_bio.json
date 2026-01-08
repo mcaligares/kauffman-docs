@@ -1,0 +1,34 @@
+{
+  "dealId": "52721-65T",
+  "dealNumber": 1,
+  "companyId": "118990-00",
+  "companyName": "Owl Labs",
+  "dealAnnouncedDate": null,
+  "dealDate": "2015-06-10",
+  "dealSize": {
+    "amount": 1300001,
+    "currency": "USD",
+    "nativeAmount": 1300001,
+    "nativeCurrency": "USD",
+    "estimated": false
+  },
+  "dealSizeStatus": "Actual",
+  "dealStatus": {
+    "code": "COMP",
+    "description": "Completed"
+  },
+  "dealType1": {
+    "code": "Seed",
+    "description": "Seed Round"
+  },
+  "dealType2": null,
+  "dealType3": null,
+  "dealClass": {
+    "code": "VC",
+    "description": "Venture Capital"
+  },
+  "valuationAvailable": true,
+  "capTableAvailable": true,
+  "trancheInfoAvailable": false,
+  "debtLenderInfoAvailable": false
+}

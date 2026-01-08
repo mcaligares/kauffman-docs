@@ -1,0 +1,139 @@
+{
+  "count": 1,
+  "entities": [
+    {
+      "uuid": "org-rappi-uuid-12345",
+      "entity_def_id": "organization",
+      "aliases": [
+        "Rappi Inc",
+        "Rappi S.A.S"
+      ],
+      "categories": [
+        {
+          "uuid": "cat-delivery-uuid",
+          "entity_def_id": "category",
+          "value": "Delivery"
+        },
+        {
+          "uuid": "cat-ecommerce-uuid",
+          "entity_def_id": "category",
+          "value": "E-Commerce"
+        }
+      ],
+      "category_groups": [
+        {
+          "uuid": "catgroup-consumer-uuid",
+          "entity_def_id": "category_group",
+          "value": "Consumer Products and Services (B2C)"
+        }
+      ],
+      "closed_on": null,
+      "company_type": "for_profit",
+      "contact_email": "info@rappi.com",
+      "created_at": "2015-08-10T12:00:00.000Z",
+      "updated_at": "2024-06-15T08:30:00.000Z",
+      "description": "Rappi is a Colombian technology company that operates a delivery app for food, groceries, and other products.",
+      "exited_on": null,
+      "facebook": {
+        "label": "Facebook",
+        "value": "https://facebook.com/rappi"
+      },
+      "founded_on": "2015-01-01",
+      "founder_identifiers": [
+        {
+          "uuid": "person-simon-borrero-uuid",
+          "entity_def_id": "person",
+          "permalink": "simon-borrero",
+          "value": "Simón Borrero"
+        }
+      ],
+      "funding_stage": "late_stage_venture",
+      "funding_total": {
+        "currency": "USD",
+        "value": 2200000000,
+        "value_usd": 2200000000
+      },
+      "image_id": "rappi-logo-id",
+      "image_url": "https://images.crunchbase.com/image/upload/rappi-logo.png",
+      "investor_identifiers": [
+        {
+          "uuid": "org-softbank-uuid",
+          "entity_def_id": "organization",
+          "value": "SoftBank"
+        },
+        {
+          "uuid": "org-andreessen-uuid",
+          "entity_def_id": "organization",
+          "value": "Andreessen Horowitz"
+        }
+      ],
+      "ipo_status": "private",
+      "last_equity_funding_total": {
+        "currency": "USD",
+        "value": 500000000,
+        "value_usd": 500000000
+      },
+      "last_equity_funding_type": "series_f",
+      "last_funding_at": "2021-09-14",
+      "last_funding_total": {
+        "currency": "USD",
+        "value": 500000000,
+        "value_usd": 500000000
+      },
+      "last_funding_type": "series_f",
+      "legal_name": "Rappi S.A.S.",
+      "linkedin": {
+        "label": "LinkedIn",
+        "value": "https://linkedin.com/company/rappi"
+      },
+      "location_identifiers": [
+        {
+          "uuid": "loc-mexico-city-uuid",
+          "entity_def_id": "location",
+          "location_type": "city",
+          "value": "Mexico City"
+        },
+        {
+          "uuid": "loc-mexico-uuid",
+          "entity_def_id": "location",
+          "location_type": "country",
+          "value": "Mexico"
+        }
+      ],
+      "name": "Rappi",
+      "num_employees_enum": "c_10001_max",
+      "num_exits": 0,
+      "num_exits_ipo": 0,
+      "num_founders": 3,
+      "num_funding_rounds": 12,
+      "num_investments": 0,
+      "num_investors": 45,
+      "num_lead_investors": 8,
+      "operating_status": "active",
+      "permalink": "rappi",
+      "phone_number": null,
+      "rank_org": 1250,
+      "revenue_range": "r_10000000",
+      "short_description": "Rappi is a delivery app for food, groceries, and other products in Latin America.",
+      "status": "operating",
+      "stock_exchange_symbol": null,
+      "stock_symbol": null,
+      "twitter": {
+        "label": "Twitter",
+        "value": "https://twitter.com/rapabordo"
+      },
+      "valuation": {
+        "currency": "USD",
+        "value": 5358600000,
+        "value_usd": 5358600000
+      },
+      "valuation_date": "2021-09-14",
+      "website": {
+        "label": "Website",
+        "value": "https://www.rappi.com"
+      },
+      "website_url": "https://www.rappi.com"
+    }
+  ]
+}
+

@@ -1,0 +1,33 @@
+{
+  "personId": "217377-01P",
+  "personName": {
+    "full": "Jane Trust",
+    "first": "Jane",
+    "last": "Trust",
+    "middle": "E.",
+    "prefix": null,
+    "suffix": null
+  },
+  "biography": "Ms. Jane E. Trust, Senior Managing Director of Legg Mason & Co., LLC (Legg Mason & Co.) (since 2018); Managing Director of Legg Mason & Co. (2016 to 2018); Officer and/or Trustee/Director of 145 funds associated with Legg Mason Partners Fund Advisor, LLC (LMPFA) or its affiliates (since 2015); President and Chief Executive Officer of LMPFA (since 2015); formerly, Senior Vice President of LMPFA (2015); Director of ClearBridge, LLC (formerly, Legg Mason Capital Management, LLC) (2007 to 2014); Managing Director of Legg Mason Investment Counsel & Trust Co. (2000 to 2007).",
+  "linkedInProfileUrl": "http://linkedin.com/in/janeevans1/",
+  "gender": "Female",
+  "primaryEntityId": "438757-75",
+  "primaryEntityName": "Western Asset Inflation Linked Opportunities and Income Fund",
+  "primaryEntityType": "Company",
+  "primaryEntityWebsite": null,
+  "primaryPosition": "Chief Executive Officer & Board Member",
+  "primaryOffice": {
+    "location": "New York, NY",
+    "addressLine1": "620 Eighth Avenue",
+    "addressLine2": "49th Floor",
+    "city": "New York",
+    "stateProvince": "New York",
+    "postCode": "10018",
+    "country": "United States",
+    "phone": "+1 (888) 777-0102",
+    "fax": null,
+    "email": null,
+    "globalRegion": "Americas",
+    "globalSubRegion": "North America"
+  }
+}
