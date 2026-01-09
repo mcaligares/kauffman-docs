@@ -75,7 +75,7 @@ The following criteria are used to compare data providers, prioritized by the va
 
 ---
 
-## Notes & Assumptions
+## Notes
 
 - **Match probability values are estimates**, based on:
   - Identifier availability (PBID, LinkedIn URL, email)
