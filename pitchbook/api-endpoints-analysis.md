@@ -435,33 +435,41 @@ PitchBook People Search has limitations:
 
 ---
 
-## Summary
+## Summary & Recommendation
 
-> **Note:** Estimates assume an average of 10 deals per user.
+### Summary Comparison
 
-### Recommended Flow
+| Dimension | Flow A: Basic | Flow B: With Deal Details | Flow C: Full Data |
+|---------|---------------|---------------------------|-------------------|
+| Primary use case | Core person  | Core person + deal details | Core person + deal details + valuations |
+| Investment data coverage | Low (22%) | Medium (56%) | High (67%) |
+| Person data coverage | High | High | High |
+| Deal valuation availability | ❌ | ❌ | ✅ |
+| Requests per user | 2 | 2 + n | 2 + 2n |
+| Credit cost | Low | Medium | High |
+| Implementation complexity | Low | Medium | High |
+| Incremental over previous flow | — | Includes Flow A | Includes Flow B |
 
-| Use Case | Flow | Credits/User | Coverage |
-|----------|------|--------------|----------|
-| Basic enrichment | A | 2 | 22% |
-| With deal details | B | 12 | 56% |
-| Full investment data | C | 22 | 67% |
+---
 
-### Flow Comparison
+### Recommendation
 
-| Flow | Person Data | Investment Data | Valuations | Credits/User |
-|------|-------------|-----------------|------------|--------------|
-| Flow A | ✅ 100% | ⚠️ 22% | ❌ No | 2 |
-| Flow B | ✅ 100% | ⚠️ 56% | ❌ No | 12 |
-| Flow C | ✅ 100% | ✅ 67% | ✅ Yes | 22 |
+**Recommended Default Flow:** **Flow B – With Deal Details**  
+**Baseline Dependency:** **Flow A – Basic**  
+**Optional Extension:** **Flow C – Full Data with Valuations**
 
-### Decision Matrix
+**Decision:**  
+Adopt **Flow B** as the default enrichment strategy, treating **Flow A as the required baseline** and **Flow C as an optional extension** for valuation-specific use cases.
 
-| Priority | Recommended | Flow | Why |
-|----------|-------------|------|-----|
-| Minimize cost | Flow A | Basic | 2 credits, person data only |
-| Balance cost/data | Flow B | With Deal Details | 12 credits, deal sizes included |
-| Maximize data | Flow C | Full Data | 22 credits, valuations included |
+**Rationale:**
+- **Flow A** is a prerequisite for all other flows, providing core person data and the investment list, but covers only **22%** of required investment attributes.
+- **Flow B** builds directly on Flow A and increases investment coverage to **56%** by adding deal size, type, and stage, which represent the majority of analytically relevant fields.
+- **Flow C** further extends Flow B by adding valuation data, increasing coverage to **67%**, but at a substantially higher credit cost due to per-deal valuation requests.
+- Based on sample data, valuation information is present for only **~40% of investments**, making Flow C unnecessary as a default.
+- This layered structure enables an **incremental adoption model**:
+  - Always execute Flow A as the foundation.
+  - Use Flow B as the standard operating flow for reporting and analysis.
+  - Apply Flow C selectively only when valuation data is explicitly required.
 
 ---
 

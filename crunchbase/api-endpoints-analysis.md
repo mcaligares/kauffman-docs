@@ -94,7 +94,35 @@ Get person profile and investment list without valuation details.
 
 ---
 
-### Flow B: Full Investment Data with Valuations
+### Flow B: Advance Investment Data
+
+Get investment data including deal date, sizes and stage.
+
+**Step 1 → Search Person**
+
+| Attribute | Value |
+|-----------|-------|
+| Endpoint | `POST /searches/people` |
+| Package | Firmographic |
+| Filter | LinkedIn URL or Name |
+| Input | `linkedin.com/in/aktaylor/` |
+| Output | Person UUID, profile data |
+
+**Step 2 → Search Investments (Advanced)**
+
+| Attribute | Value |
+|-----------|-------|
+| Endpoint | `POST /searches/investments` |
+| Package | Advanced Financials |
+| Filter | `investor_identifier` = Person UUID |
+| Input | UUID from Step 1 |
+| Output | Investment list with `money_invested`, `is_lead_investor`, `funding_round_identifier[]` |
+
+**Requests per user:** 2
+
+---
+
+### Flow C: Full Investment Data
 
 Get complete investment data including deal sizes and valuations.
 
@@ -132,7 +160,7 @@ Get complete investment data including deal sizes and valuations.
 
 ---
 
-### Flow C: Organization-Based Search ⚠️ DISCARDED
+### Flow D: Organization-Based Search ⚠️ DISCARDED
 
 > **Status:** This flow is discarded and not recommended for production use.
 
@@ -179,7 +207,7 @@ Analysis based on `sample_investments.csv` fields:
 
 **Conclusion:** FundingRound endpoint is only needed if Post-Valuation data is required. Based on sample data, only 6 of 15 investments (40%) have valuation data in Airtable. 
 
-**Recommendation:** Start with Flow A (without FundingRound). Add Flow B only if valuation tracking is a priority.
+**Recommendation:** Start with Flow A or B (without FundingRound). Add Flow C only if valuation tracking is a priority.
 
 ---
 
@@ -202,6 +230,22 @@ Analysis based on `sample_investments.csv` fields:
 **Coverage: 6/9 fields (67%)**
 
 ### Flow B: Advanced Financials Coverage
+
+| Airtable Field | Covered | Source |
+|----------------|---------|--------|
+| Company Name (PB) | ✅ | `organization_identifier.value` |
+| Investment Date (Close Date on PB) | ✅ | `announced_on` |
+| Deal Type | ✅ | `funding_round_investment_type` |
+| Deal Stage [PB] | ✅ | `investor_stage` |
+| Deal Size | ✅ | `money_invested` |
+| Post-Valuation (M) | ❌ | Requires FundingRound |
+| Lead Partner Name | ✅ | `partner_identifiers` |
+| HQ Country (from Link to Company) | ✅ | Via Organization lookup |
+| Industry Code (from Link to Company) | ✅ | Via Organization lookup |
+
+**Coverage: 8/9 fields (88%)**
+
+### Flow C: Full Financials Coverage
 
 | Airtable Field | Covered | Source |
 |----------------|---------|--------|
@@ -239,7 +283,7 @@ Analysis based on `sample_investments.csv` fields:
 
 ## Request Estimates
 
-### Flow A: Basic (Core Financials)
+### Flow A: Core Financials
 
 | Requests | Per User |
 |----------|----------|
@@ -247,7 +291,15 @@ Analysis based on `sample_investments.csv` fields:
 | Search Investments | 1 |
 | **Total** | **2** |
 
-### Flow B: Full Data (Advanced Financials)
+### Flow B: Advanced Financials
+
+| Requests | Per User |
+|----------|----------|
+| Search Person | 1 |
+| Search Investments | 1 |
+| **Total** | **2** |
+
+### Flow C: Full Financials
 
 | Requests | Per User |
 |----------|----------|
@@ -286,6 +338,20 @@ Analysis based on `sample_investments.csv` fields:
 
 | Scenario | Requests |
 |----------|----------|
+| Initial load (1,200 users × 2) | 2,400 |
+| New users Year 1 (60 × 2) | 120 |
+| **Year 1 Total** | **2,520** |
+
+| Scenario | Requests |
+|----------|----------|
+| Year 1 Total | 2,520 |
+| 6-month refresh (1,260 users × 2) | 2,520 |
+| **Year 1 Total (with refresh)** | **5,040** |
+
+### Flow C: Full Financials
+
+| Scenario | Requests |
+|----------|----------|
 | Initial load (1,200 users × 3) | 3,600 |
 | New users Year 1 (60 × 3) | 180 |
 | **Year 1 Total** | **3,780** |
@@ -298,13 +364,13 @@ Analysis based on `sample_investments.csv` fields:
 
 ### Summary Table
 
-| Scenario | Flow A (Core) | Flow B (Advanced) |
-|----------|---------------|-------------------|
-| 1 user | 2 requests | 3 requests |
-| 60 users (new/year) | 120 requests | 180 requests |
-| 1,200 users (initial) | 2,400 requests | 3,600 requests |
-| Year 1 (no refresh) | 2,520 requests | 3,780 requests |
-| Year 1 (with refresh) | 5,040 requests | 7,560 requests |
+| Scenario | Flow A (Core) | Flow B (Advanced) | Flow C (Full) |
+|----------|---------------|-------------------|---------------|
+| 1 user | 2 requests | 2 requests | 3 requests |
+| 60 users (new/year) | 120 requests | 120 requests | 180 requests |
+| 1,200 users (initial) | 2,400 requests | 2,400 requests | 3,600 requests |
+| Year 1 (no refresh) | 2,520 requests | 2,520 requests | 3,780 requests |
+| Year 1 (with refresh) | 5,040 requests | 5,040 requests | 7,560 requests |
 
 ---
 
@@ -326,8 +392,10 @@ Analysis based on `sample_investments.csv` fields:
 |----------|----------|------|----------------|
 | Flow A - Year 1 (no refresh) | 2,520 | TBD | $ TBD |
 | Flow A - Year 1 (with refresh) | 5,040 | TBD | $ TBD |
-| Flow B - Year 1 (no refresh) | 3,780 | TBD | $ TBD |
-| Flow B - Year 1 (with refresh) | 7,560 | TBD | $ TBD |
+| Flow B - Year 1 (no refresh) | 2,520 | TBD | $ TBD |
+| Flow B - Year 1 (with refresh) | 5,040 | TBD | $ TBD |
+| Flow C - Year 1 (no refresh) | 3,780 | TBD | $ TBD |
+| Flow C - Year 1 (with refresh) | 7,560 | TBD | $ TBD |
 
 ---
 
@@ -345,29 +413,40 @@ Crunchbase may have restrictions on how their data can be used. Before implement
 
 ---
 
-## Summary
+## Summary & Recommendation
 
-### Recommended Flow
+### Summary Comparison
 
-| Use Case | Flow | Package | Requests/User | Coverage |
-|----------|------|---------|---------------|----------|
-| Basic enrichment | A | Core Financials | 2 | 67% |
-| Full investment data | B | Advanced Financials | 3 | 100% |
+| Dimension | Flow A: Core  | Flow B: Advanced | Flow C: Full |
+|---------|------------------------|----------------------------------|-------------------------|
+| Primary use case | Lightweight investment enrichment | Default enrichment with strong coverage | Full financial & valuation analysis |
+| Data coverage | 67% (6/9 fields) | 88% (8/9 fields) | 100% (9/9 fields) |
+| Deal size | ❌ | ✅ | ✅ |
+| Post-valuation | ❌ | ❌ | ✅ |
+| Lead partner | ❌ | ✅ | ✅ |
+| Requests per user | 2 | 2 | 3 |
+| Year 1 requests (no refresh) | 2,520 | 2,520 | 3,780 |
+| Year 1 requests (with refresh) | 5,040 | 5,040 | 7,560 |
+| Required Crunchbase package | Core Financials | Advanced Financials | Advanced Financials |
+| Implementation complexity | Low | Medium | High |
+| Incremental value vs previous flow | — | High | Limited |
 
-### Package Comparison
+---
 
-| Package | Person Data | Investment Data | Valuations | Requests/User |
-|---------|-------------|-----------------|------------|---------------|
-| Core Financials | ✅ 100% | ⚠️ 67% | ❌ No | 2 |
-| Advanced Financials | ✅ 100% | ✅ 100% | ✅ Yes | 3 |
+### Recommendation
 
-### Decision Matrix
+**Recommended Crunchbase Package:** **Advanced Financials**  
+**Recommended Primary Flow:** **Flow B – Advanced Investment Data**  
+**Optional Upgrade Flow:** **Flow C – Full Financials**  
 
-| Priority | Recommended | Package | Why |
-|----------|-------------|---------|-----|
-| Minimize cost | Flow A | Core Financials | 60% coverage, fewer requests |
-| Maximize data | Flow B | Advanced Financials | 90% coverage, valuations included |
-| Balance | Flow A + selective B | Core + Advanced | Use Advanced only for high-value profiles |
+**Decision:**  
+Use **Flow B as the default enrichment flow**, as it provides strong investment coverage (88%) with the **same request volume as Flow A**, while avoiding the additional complexity and cost of valuation data.
+
+**Rationale:**
+- **Flow B subsumes Flow A**, adding deal size and lead partner data with no increase in requests.
+- **Flow C fully subsumes Flow B**, but increases request volume by ~50% and only adds valuation data, which exists for ~40% of investments.
+- Starting with **Flow B** ensures a scalable and cost-efficient baseline, while keeping **Flow C** available for future, valuation-driven use cases.
+- This approach supports an **incremental rollout**: default to Flow B, fall back to Flow A if needed, and selectively enable Flow C when required.
 
 ---
 
