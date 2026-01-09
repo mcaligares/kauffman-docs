@@ -59,13 +59,12 @@ Each provider follows a **consistent structure**:
 - [Data Dictionary](./signal/data-dictionary.md)
 - Examples: `/signal/examples`
 
+##### BrightData
+- [Analysis](./brightdata/README.md)
+
 #### Providers Pending Analysis
 
 The following providers are planned but still under analysis:
-
-- **Bright Data**
-  - API Endpoints Analysis (pending)
-  - Data Dictionary (pending)
 
 - **ZoomInfo**
   - API Endpoints Analysis (pending)
