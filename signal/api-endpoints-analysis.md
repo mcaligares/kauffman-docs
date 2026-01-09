@@ -14,12 +14,14 @@ Analysis of Signal NFX GraphQL endpoints to determine the optimal flow for enric
 
 ### Access Method
 
-| Aspect | Details |
-|--------|---------|
-| Access Type | Web scraper service |
-| Authentication | Login required for API access |
-| API Type | GraphQL (unofficial, undocumented) |
-| Endpoint | `POST https://signal-api.nfx.com/graphql` |
+
+| Aspect | GraphQL (Private API) | Public Profile |
+|--------|----------------------|----------------|
+| Access Type | Web scraper service | Public web scraping |
+| Authentication | Login required | Not required |
+| API Type | GraphQL (unofficial, undocumented) | HTML (public website) |
+| Endpoint | `POST https://signal-api.nfx.com/graphql` | `GET https://signal.nfx.com/investors/{slug}` |
+
 
 ### Cost Components
 
@@ -50,6 +52,20 @@ Scraper services typically include login/session management, page requests, and 
 
 ---
 
+## Public Profile Data Available
+
+### Investor Public Profile Page
+
+| Attribute | Value |
+|-----------|-------|
+| URL Pattern | `https://signal.nfx.com/investors/{slug}` |
+| Access Method | HTTP GET (HTML scraping) |
+| Authentication | Not required |
+| Identifier | Investor slug (e.g. `allen-taylor`) |
+| Response Type | HTML page |
+
+---
+
 ## GraphQL Queries Available
 
 ### Autocomplete Query
@@ -74,7 +90,29 @@ Scraper services typically include login/session management, page requests, and 
 
 ## API Call Flows
 
-### Flow A: Direct Profile Access
+### Flow A: Public Profile Access
+
+Get public investor profile using generated slug.
+
+**Step 0 → Generate Slug**
+
+Transform the user name to kebab-case slug (e.g., "Allen Taylor" → `"allen-taylor"`). This is a local transformation with no request cost.
+
+**Step 1 → Public Investor Profile**
+
+| Attribute | Value |
+|-----------|-------|
+| Endpoint | `GET https://signal.nfx.com/investors/{slug}` |
+| Access Method | Public profile page |
+| Input | Investor slug (e.g. `allen-taylor`) |
+| Output | Public investor profile: person data, firm, investments, roles |
+| Cost | 1 request |
+
+**Requests per user:** 1 (1 public profile)
+
+---
+
+### Flow B: Direct Profile Access
 
 Get investor profile using generated slug.
 
@@ -99,7 +137,7 @@ Authenticate with Signal to obtain a Bearer token. Cost: 1 request.
 
 ---
 
-### Flow B: Search + Profile Lookup
+### Flow C: Search + Profile Lookup
 
 Use when slug-based lookup fails.
 
@@ -126,36 +164,6 @@ Authenticate with Signal to obtain a Bearer token. Cost: 1 request.
 | Cost | 1 request |
 
 **Requests per user:** 3 (1 login + 1 search + 1 profile)
-
----
-
-### Flow C: Batch Extraction
-
-Bulk extraction for multiple users.
-
-**Step 0 → Login Session (Once)**
-
-A single authentication is performed at the start. The Bearer token is reused for all users in the batch. Cost: 1 request total.
-
-**Step 1 → Profile Extraction (Per User)**
-
-| Attribute | Value |
-|-----------|-------|
-| Query | `InvestorProfileLoad` |
-| Input | Generated slug per user |
-| Cost | 1 request per user |
-
-**Step 2 → Fallback Search (Only if Direct Fails)**
-
-| Attribute | Value |
-|-----------|-------|
-| Query | `InvestorsAutocompleteQuery` → `InvestorProfileLoad` |
-| Trigger | When slug-based lookup returns no results |
-| Cost | +1 request per failed lookup |
-
-**Requests total:** 1 login + (1.5 × N users)
-
-Assuming 50% require fallback: 50% get 1 request (direct), 50% get 2 requests (search + profile) = 1.5 average per user.
 
 ---
 
@@ -200,7 +208,15 @@ Assuming 50% require fallback: 50% get 1 request (direct), 50% get 2 requests (s
 
 ## Request Estimates
 
-### Flow A: Direct Profile Access
+### Flow A: Public Profile Access
+
+| Requests | Per User |
+|----------|----------|
+| Investor Profile | 1 |
+| **Total per user** | **1** |
+
+
+### Flow B: Direct Profile Access
 
 | Requests | Per User |
 |----------|----------|
@@ -208,7 +224,7 @@ Assuming 50% require fallback: 50% get 1 request (direct), 50% get 2 requests (s
 | Investor Profile | 1 |
 | **Total per user** | **2** |
 
-### Flow B: Search + Profile
+### Flow C: Search + Profile
 
 | Requests | Per User |
 |----------|----------|
@@ -216,15 +232,6 @@ Assuming 50% require fallback: 50% get 1 request (direct), 50% get 2 requests (s
 | Autocomplete Search | 1 |
 | Investor Profile | 1 |
 | **Total per user** | **3** |
-
-### Flow C: Batch Extraction
-
-| Requests | Total |
-|----------|-------|
-| Login Session | 1 (shared) |
-| Direct Profile (50% of users) | 0.5 × N |
-| Search + Profile (50% of users) | 1.0 × N |
-| **Total** | **1 + (1.5 × N)** |
 
 ---
 
@@ -244,58 +251,63 @@ Assuming 50% require fallback: 50% get 1 request (direct), 50% get 2 requests (s
 
 | Scenario | Flow A | Flow B | Flow C |
 |----------|--------|--------|--------|
-| 1 user | 2 | 3 | 2.5 |
-| 60 users (new/year) | 120 | 180 | 91 |
-| 1,200 users (initial) | 2,400 | 3,600 | 1,801 |
-
-> **Flow C calculation:** 1 login + (1.5 × N users)
+| 1 user | 1 | 2 | 3 |
+| 60 users (new/year) | 60 | 120 | 180 |
+| 1,200 users (initial) | 1,200 | 2,400 | 3,600 |
 
 ### Year 1 Estimates
 
 | Scenario | Flow A | Flow B | Flow C |
 |----------|--------|--------|--------|
-| Initial load (1,200 users) | 2,400 | 3,600 | 1,801 |
-| New users (60) | 120 | 180 | 91 |
-| **Year 1 Total (no refresh)** | **2,520** | **3,780** | **1,892** |
+| Initial load (1,200 users) | 1,200 | 2,400 | 3,600 |
+| New users (60) | 60 | 120 | 180 |
+| **Year 1 Total (no refresh)** | **1,260** | **2,520** | **3,780** |
 
 | Scenario | Flow A | Flow B | Flow C |
 |----------|--------|--------|--------|
-| Year 1 (no refresh) | 2,520 | 3,780 | 1,892 |
-| 6-month refresh (1,260 users) | 2,520 | 3,780 | 1,891 |
-| **Year 1 Total (with refresh)** | **5,040** | **7,560** | **3,783** |
+| Year 1 (no refresh) | 1,260 | 2,520 | 3,780 |
+| 6-month refresh (1,260 users) | 1,260 | 2,520 | 3,780 |
+| **Year 1 Total (with refresh)** | **2,520** | **5,040** | **7,560** |
 
 ---
 
 ## Pricing
 
-> ⏳ **TODO:** Complete this section with scraper service pricing.
+### ScrapingBee Service Plans
+
+| Plan | Monthly Price | Credits Included (Monthly) |
+|------|---------------|----------------------------|
+| Freelance | $49 | 250,000 |
+| Startup | $99 | 1,000,000 |
+| Business | $249 | 3,000,000 |
+| Business+ | $599 | 8,000,000 |
 
 ### Cost per Request
 
 | Parameter | Value |
 |-----------|-------|
-| Cost per request | $ TBD |
+| Cost per request | 25 credits |
 
-### Flow A: Estimated Annual Cost
+### Flow A: Public Profile Access – Estimated Annual Cost
 
-| Scenario | Requests | Estimated Cost |
-|----------|----------|----------------|
-| Year 1 (no refresh) | 2,520 | $ TBD |
-| Year 1 (with refresh) | 2,520 | $ TBD |
+| Scenario | Requests | Credits |
+|----------|----------|---------|
+| Year 1 (no refresh) | 1,260 | 31,500 |
+| Year 1 (with refresh) | 2,520 | 63,000 |
 
-### Flow B: Estimated Annual Cost
+### Flow B: Direct Profile Access – Estimated Annual Cost
 
-| Scenario | Requests | Estimated Cost |
-|----------|----------|----------------|
-| Year 1 (no refresh) | 3,780 | $ TBD |
-| Year 1 (with refresh) | 2,520 | $ TBD |
+| Scenario | Requests | Credits |
+|----------|----------|---------|
+| Year 1 (no refresh) | 2,520 | 63,000 |
+| Year 1 (with refresh) | 5,040 | 126,000 |
 
-### Flow C: Estimated Annual Cost
+### Flow C: Search + Profile Lookup – Estimated Annual Cost
 
-| Scenario | Requests | Estimated Cost |
-|----------|----------|----------------|
-| Year 1 (no refresh) | 1,892 | $ TBD |
-| Year 1 (with refresh) | 3,783 | $ TBD |
+| Scenario | Requests | Credits |
+|----------|----------|---------|
+| Year 1 (no refresh) | 3,780 | 94,500 |
+| Year 1 (with refresh) | 7,560 | 189,000 |
 
 ---
 
@@ -326,38 +338,43 @@ Before extracting or using data from Signal (NFX), consider the following:
 ⚠️ Incomplete or inconsistent data: Not all Kauffman Fellows have Signal profiles, and even when profiles exist, investment and activity data may be partial or outdated.
 
 ---
-## Summary and Recommendation
 
-### Primary Recommendation
+## Summary & Recommendation
 
-**Flow C (Batch Extraction)** is the recommended default approach for this project.
+### Summary Comparison
 
-**Why:**
-- Lowest average cost per user (~1.5 requests/user)
-- Shared authentication session reduces overhead
-- Scales efficiently for initial load and periodic refreshes
+| Dimension | Flow A: Public Profile | Flow B: Direct Profile | Flow C: Search + Profile |
+|---------|------------------------|------------------------|--------------------------|
+| Primary use case | Lightweight enrichment via public pages | Full private profile enrichment | Maximum coverage with fallback resolution |
+| Data coverage | Medium (public-only fields) | High (full private profile) | High (full private profile) |
+| Investment data | Partial | Complete | Complete |
+| Network & extended data | ❌ | ✅ | ✅ |
+| Authentication required | ❌ | ✅ | ✅ |
+| Requests per user | 1 | 2 | 3 |
+| Year 1 requests (no refresh) | 1,260 | 2,520 | 3,780 |
+| Year 1 requests (with refresh) | 2,520 | 5,040 | 7,560 |
+| Scraper credit cost | Very Low | Low | Medium |
+| Implementation complexity | **Low** | **Very High** | **Extremely High** |
+| Incremental value vs previous flow | — | High | Limited |
 
-This flow should be used for the initial data load and any scheduled synchronization jobs.
+---
+
+### Recommendation
+
+**Recommended Primary Flow:** **Flow A – Public Profile Access**
+
+**Decision:**  
+Use **Flow A as the default and recommended enrichment strategy**.
+
+**Rationale:**
+- **Flow A offers the best cost–benefit ratio**, requiring only **1 request per user**, no authentication flow, and minimal scraper logic.
+- **Implementation complexity is low**, making it faster to ship, easier to maintain, and more resilient to platform changes.
+- While **Flow B provides richer data**, it introduces **significant technical complexity** (authenticated sessions, GraphQL stability, token handling) that materially increases implementation and maintenance cost.
+- **Flow C further increases complexity and request volume**, while providing only marginal incremental value over Flow B.
+- Given the undocumented nature of Signal’s private GraphQL API, **Flows B and C carry higher operational and legal risk** and should not be part of the initial architecture.
 
 ---
 
-### Alternative Flows (Specific Use Cases)
-
-**Flow A – Direct Profile Access**  
-Use only for:
-- One-off or manual lookups
-- Internal tooling or debugging
-- Low-volume scenarios where simplicity is preferred over optimization
-
-**Flow B – Search + Profile Lookup**  
-Use only when:
-- Name validation is required
-- High accuracy is critical
-- False positives must be explicitly avoided
-
-This flow trades higher request cost for increased reliability.
-
----
 
 ## Response Examples
 
@@ -378,6 +395,8 @@ Example JSON responses are available in the `examples/` folder:
 - GraphQL Endpoint: `https://signal-api.nfx.com/graphql`
 - Response Dictionary: [response-dictionary.md](response-dictionary.md)
 - Unofficial Library: https://github.com/ChrisMichaelPerezSantiago/signal.nfx
+- ScrapingBee Pricing: https://www.scrapingbee.com/pricing/
+- ScrapingBee Documentation: https://www.scrapingbee.com/documentation/
 
 ---
 
