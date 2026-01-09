@@ -49,6 +49,11 @@ Each provider follows a **consistent structure**:
 - [Data Dictionary](./crunchbase/data-dictionary.md)
 - Examples: `/crunchbase/examples`
 
+##### Apollo
+- [API Endpoints Analysis](./apollo/api-endpoints-analysis.md)
+- [Data Dictionary](./apollo/data-dictionary.md)
+- Examples: `/apollo/examples`
+
 ##### Signal
 - [API Endpoints Analysis](./signal/api-endpoints-analysis.md)
 - [Data Dictionary](./signal/data-dictionary.md)
@@ -58,15 +63,15 @@ Each provider follows a **consistent structure**:
 
 The following providers are planned but still under analysis:
 
-- **Apollo**
-  - API Endpoints Analysis (pending)
-  - Data Dictionary (pending)
-
 - **Bright Data**
   - API Endpoints Analysis (pending)
   - Data Dictionary (pending)
 
 - **ZoomInfo**
+  - API Endpoints Analysis (pending)
+  - Data Dictionary (pending)
+
+- **DealRoom**
   - API Endpoints Analysis (pending)
   - Data Dictionary (pending)
 
