@@ -72,6 +72,7 @@ The following criteria are used to compare data providers, prioritized by the va
 | Crunchbase | 2,520 requests | 5,040 requests |
 | Signal | 31,500 credits (1,260 requests) | 63,000 credits (2,520 requests) |
 | Apollo | 1,260 credits | 2,520 credits |
+
 ---
 
 ## Notes & Assumptions
