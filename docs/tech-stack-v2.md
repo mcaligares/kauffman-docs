@@ -22,10 +22,14 @@ Total cost: $45 fixed + variable costs
 5. Email: Resend
     - Variable pricing
     - Magic link email delivery
+6. Observability & Logging: New Relic
+    - Centralized logging and observability
+    - Native integration via Vercel
+    - Free tier (30-day data retention, 100GB ingestion limit)
 
 # Architecture
 
-![kauffman-v1.png](imgs/kauffman-v1.png)
+![kauffman-v2.png](imgs/kauffman-v2.png)
 
 ## Architecture Summary
 
@@ -37,6 +41,7 @@ Total cost: $45 fixed + variable costs
 - **Data Enrichment:** Apollo + Crunchbase
 - **Background Jobs:** Supabase Cron Jobs
 - **Deployment:** Vercel
+- **Logging**: New Relic
 
 # Infrastructure
 
@@ -394,6 +399,54 @@ Results are normalized and stored in Supabase PostgreSQL.
 - Simple integration approach
 - No complex registration system needed
 - External platform flexibility
+
+# Observability & Logging
+
+### [New Relic](https://newrelic.com/)
+
+New Relic is used as the **centralized logging and observability layer** for the entire application.
+
+It provides visibility into application behavior, errors, and performance across all components.
+
+The integration is handled directly through **Vercel**, minimizing setup complexity and operational overhead.
+
+---
+
+**Coverage**
+
+All system components are monitored, including:
+
+- Next.js application (Server Components and API Routes)
+- Supabase services (database interactions, cron jobs)
+- Background jobs
+- External API integrations
+
+**Captured data includes:**
+
+- Application logs
+- Errors and exceptions
+- Request/response traces
+- Latency and performance metrics
+- Custom events
+
+---
+
+**Advantages**
+
+- Centralized observability across the full stack
+- Error and performance visibility in production
+- Native integration with Vercel
+- Free tier suitable for current application scale
+
+---
+
+**Limitations**
+
+- Free tier limited to **100GB of data ingestion**
+- **30-day data retention**
+- Upgrade to a paid plan required if ingestion limits are reached
+
+*This is not expected to be a constraint in the near term, since in production only errors and warnings will be logged, and data retention is capped at 30 days, preventing long-term accumulation.*
 
 # Version Control & Deployments (CI/CD)
 

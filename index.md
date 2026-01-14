@@ -40,27 +40,27 @@ Each provider follows a **consistent structure**:
 #### Analyzed Providers
 
 ##### PitchBook
-- [API Endpoints Analysis](./pitchbook/api-endpoints-analysis.md)
-- [Data Dictionary](./pitchbook/data-dictionary.md)
-- Examples: `/pitchbook/examples`
+- [API Endpoints Analysis](./data-enrichment/pitchbook/api-endpoints-analysis.md)
+- [Data Dictionary](./data-enrichment/pitchbook/data-dictionary.md)
+- Examples: `/data-enrichment/pitchbook/examples`
 
 ##### Crunchbase
-- [API Endpoints Analysis](./crunchbase/api-endpoints-analysis.md)
-- [Data Dictionary](./crunchbase/data-dictionary.md)
-- Examples: `/crunchbase/examples`
+- [API Endpoints Analysis](./data-enrichment/crunchbase/api-endpoints-analysis.md)
+- [Data Dictionary](./data-enrichment/crunchbase/data-dictionary.md)
+- Examples: `/data-enrichment/crunchbase/examples`
 
 ##### Apollo
-- [API Endpoints Analysis](./apollo/api-endpoints-analysis.md)
-- [Data Dictionary](./apollo/data-dictionary.md)
-- Examples: `/apollo/examples`
+- [API Endpoints Analysis](./data-enrichment/apollo/api-endpoints-analysis.md)
+- [Data Dictionary](./data-enrichment/apollo/data-dictionary.md)
+- Examples: `/data-enrichment/apollo/examples`
 
 ##### Signal
-- [API Endpoints Analysis](./signal/api-endpoints-analysis.md)
-- [Data Dictionary](./signal/data-dictionary.md)
-- Examples: `/signal/examples`
+- [API Endpoints Analysis](./data-enrichment/signal/api-endpoints-analysis.md)
+- [Data Dictionary](./data-enrichment/signal/data-dictionary.md)
+- Examples: `/data-enrichment/signal/examples`
 
 ##### BrightData
-- [Analysis](./brightdata/README.md)
+- [Analysis](./data-enrichment/brightdata/README.md)
 
 #### Providers Pending Analysis
 
