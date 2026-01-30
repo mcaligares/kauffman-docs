@@ -1,0 +1,162 @@
+{
+  "count": 2,
+  "entities": [
+    {
+      "uuid": "ce138023-984e-2f51-fb27-0eba0f620c32",
+      "properties": {
+        "location_group_identifiers": [
+          {
+            "entity_def_id": "location",
+            "permalink": "san-francisco-bay-area-california",
+            "uuid": "f79bcf34-5d9e-4a01-837e-f6012edd056c",
+            "value": "San Francisco Bay Area"
+          },
+          {
+            "entity_def_id": "location",
+            "permalink": "west-coast-united-states",
+            "uuid": "cf97b169-46c9-493f-a20f-3fe590824934",
+            "value": "West Coast"
+          },
+          {
+            "entity_def_id": "location",
+            "permalink": "western-united-states",
+            "uuid": "f37257c7-3745-42a1-8e07-b7db80a362ac",
+            "value": "Western US"
+          }
+        ],
+        "image_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1439945149/drtdur37yulzjjwz2tu1.jpg",
+        "permalink": "allen-taylor",
+        "num_current_advisor_jobs": 1,
+        "identifier": {
+          "permalink": "allen-taylor",
+          "image_id": "v1439945149/drtdur37yulzjjwz2tu1.jpg",
+          "uuid": "ce138023-984e-2f51-fb27-0eba0f620c32",
+          "control_tags": [
+            "regulatory_render_exclusion"
+          ],
+          "entity_def_id": "person",
+          "value": "Allen Taylor"
+        },
+        "description": "Managing Director at Endeavor Catalyst.",
+        "linkedin": {
+          "value": "https://www.linkedin.com/in/aktaylor"
+        },
+        "num_partner_investments": 80,
+        "num_jobs": 5,
+        "permalink_aliases": [],
+        "num_event_appearances": 1,
+        "entity_def_id": "person",
+        "image_id": "v1439945149/drtdur37yulzjjwz2tu1.jpg",
+        "primary_job_title": "Managing Director",
+        "investor_type": [
+          "investment_partner"
+        ],
+        "primary_organization": {
+          "permalink": "endeavor-catalyst",
+          "image_id": "h1mx3lwjzdetw9vkwn1k",
+          "uuid": "405b07b9-f449-6a98-2e3f-1b2226fe5652",
+          "entity_def_id": "organization",
+          "value": "Endeavor Catalyst"
+        },
+        "location_identifiers": [
+          {
+            "permalink": "san-francisco-california",
+            "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+            "location_type": "city",
+            "entity_def_id": "location",
+            "value": "San Francisco"
+          },
+          {
+            "permalink": "california-united-states",
+            "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+            "location_type": "region",
+            "entity_def_id": "location",
+            "value": "California"
+          },
+          {
+            "permalink": "united-states",
+            "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+            "location_type": "country",
+            "entity_def_id": "location",
+            "value": "United States"
+          },
+          {
+            "permalink": "north-america",
+            "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+            "location_type": "continent",
+            "entity_def_id": "location",
+            "value": "North America"
+          }
+        ],
+        "num_articles": 6,
+        "num_current_jobs": 2
+      }
+    },
+    {
+      "uuid": "fda720a9-8435-486b-a498-82f7256f88a9",
+      "properties": {
+        "location_group_identifiers": [
+          {
+            "entity_def_id": "location",
+            "permalink": "research-triangle-north-carolina",
+            "uuid": "2f1b0986-a0fa-4232-a48e-86401061a98b",
+            "value": "Research Triangle"
+          },
+          {
+            "entity_def_id": "location",
+            "permalink": "east-coast-united-states",
+            "uuid": "6c6b9ca5-966a-448b-8480-29b5a753f9ee",
+            "value": "East Coast"
+          },
+          {
+            "entity_def_id": "location",
+            "permalink": "southern-united-states",
+            "uuid": "090db99d-13e7-455a-a0e4-95cd21211c92",
+            "value": "Southern US"
+          }
+        ],
+        "permalink": "allen-taylor-88a9",
+        "identifier": {
+          "entity_def_id": "person",
+          "permalink": "allen-taylor-88a9",
+          "uuid": "fda720a9-8435-486b-a498-82f7256f88a9",
+          "value": "Allen Taylor"
+        },
+        "linkedin": {
+          "value": "https://www.linkedin.com/in/allentaylorjr/"
+        },
+        "location_identifiers": [
+          {
+            "permalink": "raleigh-north-carolina",
+            "uuid": "77a3de20-7496-7e3e-134f-10f790dca0cc",
+            "location_type": "city",
+            "entity_def_id": "location",
+            "value": "Raleigh"
+          },
+          {
+            "permalink": "north-carolina-united-states",
+            "uuid": "f967e667-32ce-6748-d7e0-75e756617ccd",
+            "location_type": "region",
+            "entity_def_id": "location",
+            "value": "North Carolina"
+          },
+          {
+            "permalink": "united-states",
+            "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+            "location_type": "country",
+            "entity_def_id": "location",
+            "value": "United States"
+          },
+          {
+            "permalink": "north-america",
+            "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+            "location_type": "continent",
+            "entity_def_id": "location",
+            "value": "North America"
+          }
+        ],
+        "entity_def_id": "person"
+      }
+    }
+  ]
+}

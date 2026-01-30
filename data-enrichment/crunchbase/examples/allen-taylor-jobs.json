@@ -1,0 +1,180 @@
+{
+  "count": 5,
+  "entities": [
+    {
+      "uuid": "007d9596-4eec-d177-afd8-8c9febffe770",
+      "properties": {
+        "is_current": true,
+        "name": "Allen Taylor VP of Global Network @ Endeavor",
+        "identifier": {
+          "permalink": "allen-taylor-executive-endeavor--007d9596",
+          "uuid": "007d9596-4eec-d177-afd8-8c9febffe770",
+          "control_tags": [
+            "regulatory_render_exclusion"
+          ],
+          "entity_def_id": "job",
+          "value": "Allen Taylor VP of Global Network @ Endeavor"
+        },
+        "uuid": "007d9596-4eec-d177-afd8-8c9febffe770",
+        "short_description": "Allen Taylor VP of Global Network @ Endeavor",
+        "organization_identifier": {
+          "permalink": "endeavor",
+          "image_id": "wqftezw4m7sos9vvsrpd",
+          "uuid": "3bf659d6-3d10-d72a-d389-e84c83d55eac",
+          "entity_def_id": "organization",
+          "value": "Endeavor"
+        },
+        "employee_featured_order": 6,
+        "title": "VP of Global Network",
+        "updated_at": "2018-02-13T01:18:19Z",
+        "job_type": "executive",
+        "created_at": "2015-08-19T00:48:51Z",
+        "started_on": {
+          "value": "2006-07-15",
+          "precision": "day"
+        }
+      }
+    },
+    {
+      "uuid": "3cde50a6-be49-4ded-8450-f1a64cc85e55",
+      "properties": {
+        "is_current": false,
+        "name": "Allen Taylor Board of Directors @ Princeton in Latin America",
+        "ended_on": {
+          "value": "2015-05-01",
+          "precision": "month"
+        },
+        "identifier": {
+          "permalink": "allen-taylor-board-member-princeton-in-latin-america--3cde50a6",
+          "uuid": "3cde50a6-be49-4ded-8450-f1a64cc85e55",
+          "control_tags": [
+            "regulatory_render_exclusion"
+          ],
+          "entity_def_id": "job",
+          "value": "Allen Taylor Board of Directors @ Princeton in Latin America"
+        },
+        "uuid": "3cde50a6-be49-4ded-8450-f1a64cc85e55",
+        "short_description": "Allen Taylor Board of Directors @ Princeton in Latin America",
+        "organization_identifier": {
+          "permalink": "princeton-in-latin-america",
+          "image_id": "v1499724563/l8ghkif7xroqhtrkbpmt.jpg",
+          "uuid": "a6122c65-a8bd-cc8c-05e0-b0e0c9434e11",
+          "entity_def_id": "organization",
+          "value": "Princeton in Latin America"
+        },
+        "title": "Board of Directors",
+        "updated_at": "2018-06-20T13:58:05Z",
+        "job_type": "board_member",
+        "created_at": "2018-06-20T13:58:05Z",
+        "started_on": {
+          "value": "2004-09-01",
+          "precision": "month"
+        }
+      }
+    },
+    {
+      "uuid": "684c04dc-d6ed-4ec1-acd3-50d60ac8f3c8",
+      "properties": {
+        "is_current": false,
+        "name": "Allen Taylor Associate --> Manager --> Director, Search & Selection @ Endeavor",
+        "ended_on": {
+          "value": "2009-08-01",
+          "precision": "month"
+        },
+        "identifier": {
+          "permalink": "allen-taylor-executive-endeavor--684c04dc",
+          "uuid": "684c04dc-d6ed-4ec1-acd3-50d60ac8f3c8",
+          "control_tags": [
+            "regulatory_render_exclusion"
+          ],
+          "entity_def_id": "job",
+          "value": "Allen Taylor Associate --> Manager --> Director, Search & Selection @ Endeavor"
+        },
+        "uuid": "684c04dc-d6ed-4ec1-acd3-50d60ac8f3c8",
+        "short_description": "Allen Taylor Associate --> Manager --> Director, Search & Selection @ Endeavor",
+        "organization_identifier": {
+          "permalink": "endeavor",
+          "image_id": "wqftezw4m7sos9vvsrpd",
+          "uuid": "3bf659d6-3d10-d72a-d389-e84c83d55eac",
+          "entity_def_id": "organization",
+          "value": "Endeavor"
+        },
+        "title": "Associate --> Manager --> Director, Search & Selection",
+        "updated_at": "2021-02-15T03:50:04Z",
+        "job_type": "executive",
+        "created_at": "2021-02-15T03:50:04Z",
+        "started_on": {
+          "value": "2006-07-01",
+          "precision": "month"
+        }
+      }
+    },
+    {
+      "uuid": "756bf455-bfae-41b3-bdd8-054ceea18ea3",
+      "properties": {
+        "is_current": true,
+        "name": "Allen Taylor Board Member @ Grinta",
+        "identifier": {
+          "permalink": "allen-taylor-board-member-grinta--756bf455",
+          "uuid": "756bf455-bfae-41b3-bdd8-054ceea18ea3",
+          "control_tags": [
+            "regulatory_render_exclusion"
+          ],
+          "entity_def_id": "job",
+          "value": "Allen Taylor Board Member @ Grinta"
+        },
+        "uuid": "756bf455-bfae-41b3-bdd8-054ceea18ea3",
+        "short_description": "Allen Taylor Board Member @ Grinta",
+        "organization_identifier": {
+          "permalink": "grinta",
+          "image_id": "oijkjrgqvxl6xsworjbl",
+          "uuid": "8450c961-7501-4eea-9188-4406c5eef6a9",
+          "entity_def_id": "organization",
+          "value": "Grinta"
+        },
+        "title": "Board Member",
+        "updated_at": "2022-11-22T07:10:38Z",
+        "job_type": "board_member",
+        "created_at": "2022-11-22T07:10:38Z",
+        "started_on": {
+          "value": "2022-11-01",
+          "precision": "month"
+        }
+      }
+    },
+    {
+      "uuid": "9a5fc898-49ae-15fa-1de9-192ec067d28b",
+      "properties": {
+        "is_current": true,
+        "name": "Allen Taylor Managing Director @ Endeavor Catalyst",
+        "identifier": {
+          "permalink": "allen-taylor-executive-endeavor-catalyst--9a5fc898",
+          "uuid": "9a5fc898-49ae-15fa-1de9-192ec067d28b",
+          "control_tags": [
+            "regulatory_render_exclusion"
+          ],
+          "entity_def_id": "job",
+          "value": "Allen Taylor Managing Director @ Endeavor Catalyst"
+        },
+        "uuid": "9a5fc898-49ae-15fa-1de9-192ec067d28b",
+        "short_description": "Allen Taylor Managing Director @ Endeavor Catalyst",
+        "organization_identifier": {
+          "permalink": "endeavor-catalyst",
+          "image_id": "h1mx3lwjzdetw9vkwn1k",
+          "uuid": "405b07b9-f449-6a98-2e3f-1b2226fe5652",
+          "entity_def_id": "organization",
+          "value": "Endeavor Catalyst"
+        },
+        "employee_featured_order": 5,
+        "title": "Managing Director",
+        "updated_at": "2018-02-13T01:30:51Z",
+        "job_type": "executive",
+        "created_at": "2015-08-19T00:46:59Z",
+        "started_on": {
+          "value": "2013-11-01",
+          "precision": "day"
+        }
+      }
+    }
+  ]
+}
