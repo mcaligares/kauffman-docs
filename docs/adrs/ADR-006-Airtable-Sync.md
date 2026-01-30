@@ -79,7 +79,7 @@ The decision was driven by the following considerations:
   - High monthly costs ($432-1,728/month)
   - Minimum 1-hour sync frequency on Standard plan
 
-See [detailed analysis](../airtable-sync-system/01-airbyte-only.md).
+See [detailed analysis](../airtable-sync-system/airbyte-solution.md).
 
 ### Hybrid Solution
 
@@ -95,7 +95,7 @@ See [detailed analysis](../airtable-sync-system/01-airbyte-only.md).
   - Two data sources can cause confusion
   - Full Refresh inefficiency remains
 
-See [detailed analysis](../airtable-sync-system/03-hybrid-solution.md).
+See [detailed analysis](../airtable-sync-system/hybrid-solution.md).
 
 ## Cost Comparison
 
